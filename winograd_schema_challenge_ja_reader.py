@@ -72,7 +72,13 @@ class WSCJaReader(object):
             elif remainder == 4:
                 e_answer, j_answer, *comment = line.split("\t")
             else:
-                tasks.append(WSCTask(task_id, j_sentence, j_target, j_candidate_string, j_answer))
+                wsc_task = WSCTask(task_id, j_sentence, j_target, j_candidate_string, j_answer)
+                # check whether this task is consistent with its counterpart
+                if wsc_task.task_id % 2 == 0:
+                    assert(wsc_task.j_candidates == tasks[-1].j_candidates)
+                    assert(wsc_task.j_answer != tasks[-1].j_answer)
+                    
+                tasks.append(wsc_task)
                 task_id += 1
             line_num += 1
 
@@ -87,7 +93,7 @@ def main(args):
         for task in train_set:
             print("{}".format(task))
 
-    if args.train_file is not None:
+    if args.test_file is not None:
         test_set = wsc_ja_reader.read(args.test_file)
         print("Test Set:")
         for task in test_set:

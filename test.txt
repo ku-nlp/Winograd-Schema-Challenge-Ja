@@ -1301,7 +1301,7 @@ Dina	ダイナ
 Mom brought Sara from school early because she was sick.	ママはセーラを学校から早く連れて帰った。彼女が病気だったからだ。	
 she	彼女	
 "Mom,Sara"	ママ、　セーラ	
-Sara	ママ	
+Sara	セーラ	
 		
 Mom brought Sara from school early because she had an early meeting.	ママはセーラを学校から早く連れて帰った。彼女は早く始まる会議があったからだ。	
 she	彼女	
@@ -2796,7 +2796,7 @@ Jack	ジャック
 "Jim was delighted to see Jack, because he was given the strength to finish his day."	ジムはジャックに会って喜んだ。彼は一日を過ごす力を貰えたから。	
 he	彼	
 "Jim,Jack"	ジム、　ジャック	
-Jim	ジャック	
+Jim	ジム
 		
 He likes Cuba and hates Japan because it is a communist country.	彼はキューバが好きだが日本が大嫌いだ。それが共産国だからだ。	
 it	それ	

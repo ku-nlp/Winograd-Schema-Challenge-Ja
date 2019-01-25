@@ -516,7 +516,7 @@ the glass	ガラス
 The cat broke the glass because it was clumsy.	猫がガラスを割った。それが不器用だったからだ。				
 it	それ				
 "The cat,the glass"	猫、　ガラス				
-The cat	ガラス				
+The cat	猫
 					
 Bill returned Jim twenty dollars because he borrowed money.	ビルはジムに２０ドル返した。彼がお金を借りたからだ。				
 he	彼				
@@ -3886,7 +3886,7 @@ DC Universe	DCユニバース
 "DC Universe went free to play while World of Warcraft is subscription based, because they have maintained enough users to continue with their current payment model."	ワールドオブウォークラフトは購読ベースだがDCユニバースは無料で遊べるようになった。彼らは現在の支払形態を維持するために必要なユーザー数を維持してきたからだ。				
 they	彼ら				
 "DC Universe,World of Warcraft"	DCユニバース、ワールドオブウォークラフト				
-World of Warcraft	DCユニバース				
+World of Warcraft	ワールドオブウォークラフト				
 					
 Amazon's Kindle Fire may surpass Apple's IPad because they offer a very competitive low price.	アマゾンのキンドルファイアはアップルのIPADを凌ぐかもしれない。彼らは非常に競争力のある低価格を提示しているからだ。				
 they	彼ら				
@@ -5345,7 +5345,7 @@ the stakeholders	株主
 					
 AOL finally had their CEO step down to respect the wishes of the stakeholders because they needed to listen to their investors.	AOLは株主の希望を尊重してついにCOEを辞任させた。彼らは投資家の言うことを聞かなくてはならなかった。				
 they	彼ら				
-"AOL,the stakeholders"	AOL、　株				
+"AOL,the stakeholders"	AOL、　株主				
 AOL	AOL				
 					
 "The collections agency often goes after delinquent accounts, but they sometimes make mistakes."	取立代行会社はしばしば滞納者を追及する。しかし彼らはミスを犯すことがある。				
@@ -5483,9 +5483,9 @@ he	彼
 "Beowulf,King Henry"	ベオウルフ、　ヘンリー王				
 Beowulf	ベオウルフ				
 					
-Beowulf was granted the crown to succeed King Henry because he did not have a son to secede him instead.	ベオウフルはヘンリー王の後継者となるため王位を授けられた。なぜなら彼には引き継いでくれる息子がなかったからだ。	secede? -succeed?			
+Beowulf was granted the crown to succeed King Henry because he did not have a son to secede him instead.	ベオウルフはヘンリー王の後継者となるため王位を授けられた。なぜなら彼には引き継いでくれる息子がなかったからだ。	secede? -succeed?			
 he	彼				
-"Beowulf,King Henry"	ベオウフル、　ヘンリー王				
+"Beowulf,King Henry"	ベオウルフ、　ヘンリー王				
 King Henry	ヘンリー王				
 					
 The invaders showed no mercy to the defenders because they are a vicious and unforgiving people.	侵略者は防衛者に対して情けをみせなかった。彼らは凶暴で容赦ない人々だった。				
@@ -6591,7 +6591,7 @@ English	英語
 There is more NLP work on English than on Bengali because it has rich linguistic resources.	NLPの研究はベンガル語より英語についての方が多い。そちらが言語資源が多いからだ。				
 it	そちら				
 "English,Bengali"	英語、　ベンガル語				
-English	ベンガル語				
+English	英語
 					
 There is more NLP work on English than on Bengali because it has little linguistic resources.	NLPの研究はベンガル語より英語についての方が多い。そちらはほとんど言語資源がないからだ。				
 it	そちら				
