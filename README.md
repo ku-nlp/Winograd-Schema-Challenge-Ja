@@ -7,17 +7,28 @@ Japanese Translation of Winograd Schema Challenge (http://www.hlt.utdallas.edu/~
 
 ### Format
 - Five lines correspond to one task, which consists of the following four lines (and one blank line).
-   - input sentence(s)     Japanese translation (comments if any)
-   - target pronoun     Japanese translation
-   - antecedent candidates Japanese translation
-   - correct antecedent     Japanese translation
-   
-- example
+```
+input sentence(s)     Japanese translation (comments if any)
+target pronoun     Japanese translation
+antecedent candidates Japanese translation
+correct antecedent     Japanese translation
+```   
+- Example:
+```
+"James asked Robert for a favor, but he refused."       ジェームズはロバートに頼みごとをした。しかし彼は断った。                
+he      彼                              
+"James,Robert"  ジェームズ、　ロバート                          
+Robert  ロバート 
+```
 
-    "James asked Robert for a favor, but he refused."       ジェームズはロバートに頼みごとをした。しかし彼は断った。                
-    he      彼                              
-    "James,Robert"  ジェームズ、　ロバート                          
-    Robert  ロバート 
+## Dataset Reader
+```bash
+$ python winograd_schema_challenge_ja_reader.py --train_file train.txt --test_file test.txt
+```
+
+## History
+- 0.1
+    - initial commit
 
 ## Reference
 柴田知秀, 小浜翔太郎, 黒橋禎夫:
