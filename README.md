@@ -27,6 +27,8 @@ $ python winograd_schema_challenge_ja_reader.py --train_file train.txt --test_fi
 ```
 
 ## History
+- 0.2
+    - Check the consistency.
 - 0.1
     - initial commit
 
