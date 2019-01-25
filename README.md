@@ -32,6 +32,6 @@ $ python winograd_schema_challenge_ja_reader.py --train_file train.txt --test_fi
 
 ## Reference
 柴田知秀, 小浜翔太郎, 黒橋禎夫:
-日本語Winograd Schema Challengeの構築と分析
+日本語Winograd Schema Challengeの構築と分析.
 言語処理学会 第21回年次大会 (2015.3) (in Japanese). 
 http://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/E3-1.pdf
