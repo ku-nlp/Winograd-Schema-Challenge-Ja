@@ -1,0 +1,2820 @@
+The sniper shot the terrorist because he was a bad guy.	狙撃兵はテロリストを撃った。彼は悪漢だったからだ。	
+he	彼	
+"The sniper,the terrorist"	狙撃兵、　テロリスト	
+the terrorist	テロリスト	
+		
+The sniper shot the terrorist because he had orders.	狙撃兵はテロリストを撃った。彼は命令されたからだ。	
+he	彼	
+"The sniper,the terrorist"	狙撃兵、　テロリスト	
+The sniper	狙撃兵	
+		
+The chimpanzee could not use Linux because it was an animal.	チンパンジーはリナックスを使えなかった。それが動物だからだ。	
+it	それ	
+"The chimpanzee,Linux"	チンパンジー、　リナックス	
+The chimpanzee	チンパンジー	
+		
+The chimpanzee could not use Linux because it uses different commands than Windows.	チンパンジーはリナックスを使えなかった。それはウインドウズとは異なるコマンドを使うからだ。	
+it	それ	
+"The chimpanzee,Linux"	チンパンジー、　リナックス	
+Linux	リナックス	
+		
+Bill punched Bob in the face because he was being rude to Mary.	ビルはボブの顔を殴った。彼はメアリに失礼な態度をとったからだ。	
+he	彼	
+"Bill,Bob"	ビル、　ボブ	
+Bob	ボブ	
+		
+Bill punched Bob in the face because he wanted to protect Mary.	ビルはボブの顔を殴った。彼はメアリを守りたかったからだ。	
+he	彼	
+"Bill,Bob"	ビル、　ボブ	
+Bill	ビル	
+		
+"Carl borrowed a book from Richard, but the book was never returned to him."	カールはリチャードから本を借りた。しかし本が彼に返されることはなかった。	
+him	彼	
+"Carl,Richard"	カール、　リチャード	
+Richard	リチャード	
+		
+"Carl borrowed a book from Richard, but the book was unreadable to him."	カールはリチャードから本を借りた。しかし本は彼にとって判読不可能だった。	
+him	彼	
+"Carl,Richard"	カール、　リチャード	
+Carl	カール	
+		
+Bill likes to play with Bob because he loves playing.	ビルはボブと遊ぶのが好きだ。彼は遊ぶことが好きなのだ。	
+he	彼	
+"Bill,Bob"	ビル、　ボブ	
+Bill	ビル	
+		
+Bill likes to play with Bob but he did not want to.	ビルはボブと遊ぶのが好きだ。しかし彼はそうしたくなかった。	
+he	彼	
+"Bill,Bob"	ビル、　ボブ	
+Bob	ボブ	
+		
+The salesperson told Dave that this would be the best car he ever bought.	販売員はデイブに言った。この車は彼がこれまで買ったうちで一番良い車でしょうと。	
+he	彼	
+"The salesperson,Dave"	販売員、　デイブ	
+Dave	デイブ	
+		
+The salesperson told Dave that this would be the best car he ever sold.	販売員はデイブに言った。この車は彼がこれまで販売したたうちで一番良い車となるでしょう。	
+he	彼	
+"The salesperson,Dave"	販売員、　デイブ	
+The salesperson	販売員	
+		
+The student wanted to ask the professor for help but decided not to because he was too scared.	その学生は教授に助けてもらいたかったがやめた。彼は非常に怖がったからだ。	
+he	彼	
+"The student,the professor"	学生、　教授	
+The student	学生	
+		
+The student wanted to ask the professor for help but decided not to because he was too intimidating.	その学生は教授に助けてもらいたかったがやめた。彼は非常に威圧だったからだ。	
+he	彼	
+"The student,the professor"	学生、　教授	
+the professor	教授	
+		
+The student couldn't understand the teacher because he had an accent.	学生は教師の言うことが理解できなかった。彼はなまっていたからだ。	
+he	彼	
+"The student,the teacher"	学生、　教師	
+the teacher	教師	
+		
+The student couldn't understand the teacher because he wasn't paying attention.	学生は教師の言うことが理解できなかった。彼は集中していなかったからだ。	
+he	彼	
+"The student,the teacher"	学生、　教師	
+The student	学生	
+		
+The campers turned on their flashlights because it was dark without them.	キャンプしていた人々は懐中電灯を点けた。それなしでは暗すぎたからだ。	
+them	それ	それら？
+"The campers,their flashlights"	キャンプしていた人々、　懐中電灯　	
+their flashlights	懐中電灯	
+		
+The campers turned on their flashlights because the darkness scared them.	キャンプしていた人々は懐中電灯を点けた。彼らは暗闇が怖かったからだ。	
+them	彼ら	
+"The campers,their flashlights"	キャンプしていた人々、　懐中電灯　	
+The campers	キャンプしていた人々
+		
+Francis stopped and looked at the penguin because he was intrigued.	フランシスは立ち止まってペンギンを見た。彼は興味をそそられたからｎおだ。	
+he	彼	
+"Francis,the penguin"	フランシス、　ペンギン	
+Francis	フランシス	
+		
+Francis stopped and looked at the penguin because he was cute.	フランシスは立ち止まってペンギンを見た。彼が可愛らしかったからだ。	
+he	彼	
+"Francis,the penguin"	フランシス、　ペンギン	
+the penguin	ペンギン	
+		
+The off-campus apartments were preferred to the on-campus apartments because they were cheaper.	学外のアパートは学内のアパートより好まれた。それらの方が安かったからだ。	
+they	それら	
+"The off-campus apartments,the on-campus apartments"	学外のアパート、　学内のアパート	
+The off-campus apartments	学外のアパート	
+		
+The off-campus apartments were preferred to the on-campus apartments because they were more expensive.	学外のアパートは学内のアパートより好まれた。それらの方が高かったからだ。	
+they	それら	
+"The off-campus apartments,the on-campus apartments"	学外のアパート、　学内のアパート	
+the on-campus apartments	学内のアパート	
+		
+The general fired his pistol at the monster so he could be a distraction.	大将は怪物に向けてピストルを撃った。彼に注意を逸らせるために。	
+he	彼	
+"The general,the monster"	大将、　怪物	
+The general	大将	
+		
+The general fired his pistol at the monster so he turned and looked.	大将は怪物に向けてピストルを撃った。すると彼は振り返り、見た。	
+he	彼	
+"The general,the monster"	大将、　怪物	
+the monster	怪物	
+		
+Liverpool lost to Manchester United because they had been mismanaged all season.	リバプールはマンチェスターユナイテッドに負けた。彼らはシーズンを通して間違った管理を受けていたからだ。	
+they	彼ら	
+"Liverpool,Manchester United"	リバプール、　マンチェスターユナイテッド	
+Liverpool	リバプール	
+		
+Liverpool lost to Manchester United because they were a superior team.	リバプールはマンチェスターユナイテッドに負けた。彼らはより優れたチームだったからだ。	
+they	彼ら	
+"Liverpool,Manchester United"	リバプール、　マンチェスターユナイテッド	
+Manchester United	マンチェスターユナイテッド	
+		
+"Rice beat Texas, even though they were a smaller school."	ライスはテキサスを打ち負かした。彼らは学校の方が規模が小さかったのに。	
+they	彼ら	
+"Rice,Texas"	ライス、　テキサス	
+Rice	ライス	
+		
+"Rice beat Texas, even though they were the best team in the nation."	ライスはテキサスを打ち負かした。彼らが国内最高のチームだったにも拘らずだ。	
+they	彼ら	
+"Rice,Texas"	ライス、　テキサス	
+Texas	テキサス	
+		
+The state executes prisoners because they want justice.	国家は囚人を処刑する。彼らは正義を求めるからだ。	
+they	彼ら	
+"The state,prisoners"	国家、　囚人	
+The state	国家	
+		
+The state executes prisoners because they were convicted of heinous crimes.	国家は囚人を処刑する。彼らは凶悪な犯罪を犯したからだ。	
+they	彼ら	
+"The state,prisoners"	国家、　囚人	
+prisoners	囚人	
+		
+"Jason built Rocky a robot, and he gave it to him."	ジェイソンはロッキーのためにロボットを作った。そして彼は彼にそれをあげた。	
+he	彼	
+"Jason,Rocky"	ジェイソン、　ロッキー	
+Jason	ジェイソン	
+		
+"Jason built Rocky a robot, so he had more free time."	ジェイソンはロッキーのためにロボットを作った。だから彼は自由時間が増えた。	
+he	彼	
+"Jason,Rocky"	ジェイソン、　ロッキー	
+Rocky	ロッキー	
+		
+My heart pumps blood because it is liquid.	わたしの心臓は血液を送り出す。それは液体だからだ。	
+it	それ	
+"My heart,blood"	わたしの心臓、　血液	
+blood	血液	
+		
+My heart pumps blood because it is a muscle.	わたしの心臓は血液を送り出す。それは筋肉だからだ。	
+it	それ	
+"My heart,blood"	わたしの心臓、　血液	
+My heart	わたしの心臓	
+		
+Joe smells better than Adam since he showers regularly.	ジョーはアダムより良い香りがする。彼は日頃からシャワーを浴びるからだ。	
+he	彼	
+"Joe,Adam"	ジョー、　アダム	
+Joe	ジョー	
+		
+Joe smells better than Adam since he hardly ever showers.	ジョーはアダムより良い香りがする。彼はめったにシャワーを浴びないからだ。	
+he	彼	
+"Joe,Adam"	ジョー、　アダム	
+Adam	アダム	
+		
+The pen is mightier than the sword because it can only stab things.	ペンは剣より強い。それは物しか刺すことが出来ないからだ。	
+it	それ	
+"The pen,the sword"	ペン、　剣	
+the sword	剣	
+		
+The pen is mightier than the sword because it can be used to write world-changing documents.	ペンは剣より強い。それは世界を変えるような文書をかくのに使うことができるからだ。	
+it	それ	
+"The pen,the sword"	ペン、　剣	
+The pen	ペン	
+		
+The cats attacked the humans because they were feral.	猫が人間を襲った。彼らは野生化していたのだ。	
+they	彼ら	
+"The cats,the humans"	猫、　人間	
+The cats	猫	
+		
+The cats attacked the humans because they smelled like fish.	猫が人間を襲った。彼らは魚のような匂いがしていたからだ。	
+they	彼ら	
+"The cats,the humans"	猫、　人間	
+the humans	人間	
+		
+Bob can beat Larry at arm wrestling because he has more muscles.	ボブは腕相撲でラリーを負かすことができる。彼の方が腕っぷしが強いから。	
+he	彼	
+"Bob,Larry"	ボブ、　ラリー	
+Bob	ボブ	
+		
+Bob can beat Larry at arm wrestling because he is a toddler.	ボブは腕相撲でラリーを負かすことができる。彼は幼児だから。	
+he	彼	
+"Bob,Larry"	ボブ、　ラリー	
+Larry	ラリー	
+		
+Donald kicked King but he never cried.	ドナルドはキングを蹴った。しかし彼は決して泣かなかった。	
+he	彼	
+"Donald,King"	ドナルド、　キング	
+King	キング	
+		
+Donald kicked King but he never felt bad.	ドナルドはキングを蹴った。しかし彼は決して悪いとは思わなかった。	
+he	彼	
+"Donald,King"	ドナルド、　キング	
+Donald	ドナルド	
+		
+Steve went to the meeting with John because he was asked to.	スティーブはジョンと一緒にミーティングに行った。彼はそうするように頼まれたのだ。	
+he	彼	
+"Steve,John"	スティーブ、　ジョン	
+Steve	スティーブ	
+		
+Steve went to the meeting with John because he asked him to.	スティーブはジョンと一緒にミーティングに行った。彼が彼にそうするよう頼んだからだ。	
+he	彼	
+"Steve,John"	スティーブ、　ジョン	
+John	ジョン	
+		
+Mary gave Sandy her book because she needed it.	メアリーはサンディに自分の本をあげた。彼女がそれを必要としていたからだ。	
+she	彼女	
+"Mary,Sandy"	メアリー、　サンディ	
+Sandy	サンディ	
+		
+Mary gave Sandy her book because she is generous.	メアリーはサンディに自分の本をあげた。彼女は親切だったのだ。	
+she	彼女	
+"Mary,Sandy"	メアリー、　サンディ	
+Mary	メアリー	
+		
+John visited Luke in the hospital because he was sick.	ジョンは病院にルークを見舞った。彼は病気だったのだ。	
+he	彼	
+"John,Luke"	ジョン、　ルーク	
+Luke	ルーク	
+		
+John visited Luke in the hospital because he lived close by.	ジョンは病院にルークを見舞った。彼は近くに住んでいたからだ。	
+he	彼	
+"John,Luke"	ジョン、　ルーク	
+John	ジョン	
+		
+John hired Bill because he needed someone.	ジョンはビルを雇った。彼は誰かを必要としていたからだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+John	ジョン	
+ｓｓ		
+John fired Bill because he was incompetent.	ジョンはビルを解雇した。彼は無能だったからだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+Bill	ビル	
+		
+John introduced Bill because he knew everyone.	ジョンはビルを紹介した。彼は皆を知っていたからだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+John	ジョン	
+		
+John introduced Bill because he was new.	ジョンはビルを紹介した。彼は初対面だったからだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+Bill	ビル	
+		
+John shot Bill and he was jailed.	ジョンはビルを撃った。そして彼は投獄された。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+John	ジョン	
+		
+John shot Bill and he died.	ジョンはビルを撃った。そして彼は死んだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+Bill	ビル	
+		
+"The Mad Hatter tried to offer a cup of tea to the March Hare, but his hat was too distracting."	マッドハッターはマーチヘアにお茶を進めようとした。しかし彼の帽子があまりにも邪魔だった。	
+his	彼	
+"The Mad Hatter,the March Hare"	マッドハッター、マーチヘア	
+The Mad Hatter	マッドハッター	
+		
+"The Mad Hatter tried to offer a cup of tea to the March Hare, but his long ears were too distracting."	マッドハッターはマーチヘアにお茶を進めようとした。しかし彼の長い耳があまりにも邪魔だった。	
+his	彼	
+"The Mad Hatter,the March Hare"	マッドハッター、マーチヘア	
+the March Hare	マーチヘア	
+		
+Richard blackmailed Senator Carson so that his silence would be secured.	リチャードはカーソン上院議員を脅した。彼の沈黙が守られるように。	
+his	彼の	
+"Richard,Senator Carson"	リチャード、　カーソン上院議員	
+Senator Carson	カーソン上院議員	
+		
+Richard blackmailed Senator Carson so that his rise to power would be secured.	リチャードはカーソン上院議員を脅した。彼が政権の座に就くことが確実になるように。	
+his	彼
+"Richard,Senator Carson"	リチャード、　カーソン上院議員	
+Richard	リチャード	
+		
+"Tradition dictated the captain hold the Stanley Cup first, and it was pretty."	キャプテンがスタンレーカップを持つのが伝統だ。それは美しかった。	
+it	それ	
+"Tradition,the Stanley Cup"	伝統、　スタンレーカップ	
+the Stanley Cup	スタンレーカップ	
+		
+"Tradition dictated the captain hold the Stanley Cup first, and it is always followed."	キャプテンがスタンレーカップを持つのが伝統だ。それは常に守られた。	
+it	それ	
+"Tradition,the Stanley Cup"	伝統、　スタンレーカップ	
+Tradition	伝統	
+		
+The bat hit the ball because it was designed to hit.	バットがボールを打った。それは打つべく考案されていたからだ。	
+it	それ	
+"The bat,the ball"	バット、　ボール	
+The bat	バット	
+		
+The bat hit the ball because it was designed to be hit.	バットがボールを打った。それは打たれるように考案されていたからだ。	
+it	それ	
+"The bat,the ball"	バット、　ボール	
+the ball	ボール	
+		
+The program could successfully parse the file because it was programmed well.	プログラムは上手くファイルの構文解析を行うことができた。それは良くプログラムされていた。	
+it	それ	
+"The program,the file"	プログラム、　ファイル	
+The program	プログラム	
+		
+The program could successfully parse the file because it was formatted well.	プログラムは上手くファイルの構文解析を行うことができた。それは書式が良く整っていた。	
+it	それ	
+"The program,the file"	プログラム、　ファイル	
+the file	ファイル	
+		
+The article about the fires said that they torched most of Seattle.	火事についての記事によれば、それらによってシアトルの大部分に火がついた。	
+they	それら	
+"The article,the fires"	記事、　火事	
+the fires	火事	
+		
+The article about the fires said that they would research the situation further.	火事についての記事によれば、それらは更に状況を調べる予定だ。	
+they	それら	
+"The article,the fires"	記事、　火事	
+The article	記事	
+		
+The winners were given the awards after they won.	彼らが勝った後、勝者に賞品が授与された。	
+they	彼ら	
+"The winners,the awards"	勝者、　賞品	
+The winners	勝者	
+		
+The winners were given the awards after they were made.	それらが制作された後、勝者に賞品を授与された	賞品が制作された後、勝者にそれらが授与された。
+they	それら	
+"The winners,the awards"	勝者、　賞品	
+the awards	賞品	
+		
+The man jumped on the neighbor's pool and he swam.	男は隣人のプールに飛び込んだ。そして彼は泳いだ。	
+he	彼	
+"The man,the neighbor"	男、　隣人	
+The man	男	
+		
+The man jumped on the neighbor's pool and he stared.	男は隣人のプールに飛び込んだ。そこで彼はじっと見た。	
+he	彼	
+"The man,the neighbor"	男、　隣人	
+the neighbor	隣人	
+		
+"The team shredded the report, so that it could rewrite a new one."	チームは報告書を粉々に破った。それが新しいものを書き直せるように。	
+it	それ	
+"The team,the report"	チーム、　報告書	
+The team	チーム	
+		
+"The team shredded the report, so that it could be rewritten."	チームは報告書を粉々に破った。それが新しく書き直されるように。	
+it	それ	
+"The team,the report"	チーム、　報告書	
+the report	報告書	
+		
+Bob asked Tom if he could take him to the movies.	ボブはトムに尋ねた。彼は彼を映画に連れて行ってよいかと。	
+he	彼	
+"Bob,Tom"	ボブ、　トム	
+Bob	ボブ	ボブでもトムでも可？
+		
+Bob asked Tom if he could lend some money.	ボブはトムに尋ねた。彼はお金をいくらか貸してくれるかと。	
+he	彼	
+"Bob,Tom"	ボブ、　トム	
+Tom	トム	
+		
+Homer punched Flanders because he was being annoying.	ホーマーはフランダースを殴った。彼は目障りだったからだ。	
+he	彼	
+"Homer,Flanders"	ホーマー、　フランダース	
+Flanders	フランダース	
+		
+Homer punched Flanders because he was asked to.	ホーマーはフランダースを殴った。彼はそうするよう頼まれたからだ。	
+he	彼	
+"Homer,Flanders"	ホーマー、　フランダース	
+Homer	ホーマー	
+		
+Nelson punched Milhouse but he was not hurt.	ネルソンはミルハウスを殴った。しかし彼は怪我しなかった。	
+he	彼	
+"Nelson,Milhouse"	ネルソン、　ミルハウス	
+Milhouse	ミルハウス	
+		
+Nelson punched Milhouse but he was not caught.	ネルソンはミルハウスを殴った。しかし彼は捕まらなかった。	
+he	彼	
+"Nelson,Milhouse"	ネルソン、　ミルハウス	
+Nelson	ネルソン	
+		
+The mermaid swam toward Sue and made her gasp.	人魚はスーの方に泳いで行った。そして彼女をハットさせた。	
+her	彼女を	
+"The mermaid,Sue"	人魚、　スー	
+Sue	スー	
+		
+The mermaid swam toward Sue and waved her tail.	人魚はスーの方に泳いで行った。そして彼女の尾びれを振った。	
+her	彼女の	
+"The mermaid,Sue"	人魚、　スー	
+The mermaid	人魚	
+		
+The mother bear attacked Karen because she had gotten too close to her cub.	母熊はカレンを攻撃した。彼女は仔熊に近づきすぎたのだ。	
+she	彼女	
+"The mother bear,Karen"	母熊、　カレン	
+Karen	カレン	
+		
+The mother bear attacked Karen because she was worried for her cub.	母熊はカレンを攻撃した。彼女は仔熊のことを心配したのだ。	
+she	彼女	
+"The mother bear,Karen"	母熊、　カレン	
+The mother bear	母熊	
+		
+"Mary smiled at Susan, but she did not smile back."	メアリはスーザンに微笑んだ。しかし彼女は微笑み返さなかった。	
+she	彼女	
+"Mary,Susan"	メアリ、　スーザン	
+Susan	スーザン	
+		
+"Mary smiled at Susan, but she was not happy to see her."	メアリはスーザンに微笑んだ。しかし彼女は彼女に会って嬉しくはかった。	
+she	彼女	
+"Mary,Susan"	メアリ、　スーザン	
+Mary	メアリ	
+		
+The leech latched onto the hippo so that it could enjoy the sunshine.	ヒルはサイにしがみついた。それは日向ぼっこをしようとしたのだ。	
+it	それ	
+"The leech,the hippo"	ヒル、　サイ	
+the hippo	サイ	ヒル？
+		
+The leech latched onto the hippo because it was hungry.	ヒルはサイにしがみついた。それはお腹がすいていたのだ。	
+it	それ	
+"The leech,the hippo"	ヒル、　サイ	
+The leech	ヒル	
+		
+The people protested the government because they were hungry.	民衆は政府に抗議した。彼らは飢えていたからだ。	
+they	彼ら	
+"The people,the government"	民衆、　政府	
+The people	民衆	
+		
+The people protested the government because they were raising taxes.	民衆は政府に抗議した。彼らは増税しようとしていたからだ。	
+they	彼ら	
+"The people,the government"	民衆、　政府	
+the government	政府	
+		
+I drank the beer with a lime because it was cold.	私はビールにライムを入れて飲んだ。それが冷たかったからだ。	
+it	それ	
+"the beer,a lime"	ビール、　ライム	
+the beer	ビール	
+		
+I drank the beer with a lime because it was sour.	私はビールにライムを入れて飲んだ。それは酸っぱかったからだ。	
+it	それ	
+"the beer,a lime"	ビール、　ライム	
+a lime	ライム	
+		
+The employer talked to the employee about being loyal to him.	雇用主は従業員に彼に対する忠誠心について話した。	
+him	彼に	
+"The employer,the employee"	雇用主、　従業員	
+The employer	雇用主	
+		
+The employer talked to the employee about firing him.	雇用主は従業員に彼を解雇することを話した。	
+him	彼を	
+"The employer,the employee"	雇用主、　従業員	
+the employee	従業員	
+		
+A chicken pecked at a bug and it ate it.	ニワトリは虫をつついた。そしてそれはそれを食べた。	
+it	それ	
+"A chicken,a bug"	ニワトリ、　虫	
+A chicken	ニワトリ	
+		
+A chicken pecked at a bug and it ran away.	ニワトリは虫をつついた。そしてそれは逃げた。	
+it	それ	
+"A chicken,a bug"	ニワトリ、　虫	
+a bug	虫	
+		
+The dogs hate the fleas because they suck blood.	犬は蚤を嫌がる。それらは血を吸うからだ。	
+they	それら	
+"The dogs,the fleas"	犬、　蚤	
+the fleas	蚤	
+		
+The dogs hate the fleas because they hate bugs.	犬は蚤を嫌がる。それらは虫が嫌いだからだ。	
+they	それら	
+"The dogs,the fleas"	犬、　蚤	
+The dogs	犬	
+		
+Steven Seagal challenged Jean Claude Van Damme to a fight because he wanted to prove he was the stronger man.	スティーブン・シーガルはジャン・クロード・ヴァンダムに戦いを挑んだ。彼は自分の方が強いことを証明したかったのだ。	
+he	彼	
+"Steven Seagal,Jean Claude Van Damme"	スティーブン・シーガル、　ジャン・クロード・ヴァンダム	
+Steven Seagal	スティーブン・シーガル	
+		
+Steven Seagal challenged Jean Claude Van Damme to a fight because he is a worthy opponent.	スティーブン・シーガルはジャン・クロード・ヴァンダムに戦いを挑んだ。彼は好敵手だったからだ。	
+he	彼	
+"Steven Seagal,Jean Claude Van Damme"	スティーブン・シーガル、　ジャン・クロード・ヴァンダム	
+Jean Claude Van Damme	ジャン・クロード・ヴァンダム	
+		
+Girls like puppies because they are adorable.	女の子は子犬が好きだ。それらは可愛いからだ。	
+they	それら	
+"Girls,puppies"	女の子、　子犬	
+puppies	子犬	
+		
+Girls like puppies because they like adorable things.	女の子は子犬が好きだ。彼女らは可愛いものが好きだから。	
+they	彼女ら	
+"Girls,puppies"	女の子、　子犬	
+Girls	女の子	
+		
+Jack got more votes than John because the people liked him.	ジャックはジョンより多く得票した。人々は彼を好んだ。	
+him	彼を	
+"Jack,John"	ジャック、　ジョン	
+Jack	ジャック	
+		
+Jack got more votes than John because the people did not like him.	ジャックはジョンより多く得票した。人々は彼を好まなかった。	
+him	彼を	
+"Jack,John"	ジャック、　ジョン	
+John	ジョン	
+		
+The car passed the truck because it was going too slow.	乗用車はトラックを追い越した。それはスピードが遅すぎたからだ。	
+it	それ	
+"The car,the truck"	乗用車、　トラック	
+the truck	トラック	
+		
+The car passed the truck because it needed to go faster.	乗用車はトラックを追い越した。それはもっと早く走る必要があったからだ。	
+it	それ	
+"The car,the truck"	乗用車、　トラック	
+The car	乗用車	
+		
+My phone is working better than your phone because it is a newer model.	わたしの電話はあなたの電話よりよく機能している。それはより新しい機種だからだ。	
+it	それ	
+"My phone,your phone"	わたしの電話、　あなたの電話	
+My phone	わたしの電話	
+		
+My phone is working better than your phone because it is broken.	わたしの電話はあなたの電話よりよく機能している。それは壊れているからだ。	
+it	それ	
+"My phone,your phone"	わたしの電話、　あなたの電話	
+your phone	あなたの電話	
+		
+Raja wanted Rena to take the job because he would be a good candidate.	ラジャはリナにその仕事を受けてもらいたかった。彼は良い候補者に違いないから。	
+he	彼	
+"Raja,Rena"	ラジャ、　リナ	
+Rena	リナ	
+		
+Raja wanted Rena to take the job because he wanted to leave.	ラジャはリナにその仕事を受けてもらいたかった。彼は仕事を辞めたかったのだ。	
+he	彼	
+"Raja,Rena"	ラジャ、　リナ	
+Raja	ラジャ	
+		
+"Sheila tried to repair the old jalopy, even though she had not run in three decades."	シーラは古いポンコツ車を修理しようとした。彼女は30年も走っていなかったにも拘らずだ。	
+she	彼女	
+"Sheila,the old jalopy"	シーラ、　古いポンコツ車	
+the old jalopy	古いポンコツ車	
+		
+"Sheila tried to repair the old jalopy, even though she had not worked on cars in three decades."	シーラは古いポンコツ車を修理しようとした。彼女は30年も車に取り組んでいなかったにも拘らずだ。	
+she	彼女	
+"Sheila,the old jalopy"	シーラ、　古いポンコツ車	
+Sheila	シーラ	
+		
+The ghost entered the house because it was haunting.	幽霊は家に入った。それは取りついていたのだ。	
+it	それ	
+"The ghost,the house"	幽霊、　家	
+The ghost	幽霊	
+		
+The ghost entered the house because it was haunted.	幽霊は家に入った。それは取りつかれていたのだ。	
+it	それ	
+"The ghost,the house"	幽霊、　家	
+the house	家	
+		
+The boy escaped the cop but he continued to flee.	少年は警官から逃れた。しかし彼は逃げ続けた。	
+he	彼	
+"The boy,the cop"	少年、　警官	
+The boy	少年	
+		
+The boy escaped the cop but he continued to search.	少年は警官から逃れた。しかし彼は捜索し続けた。	
+he	彼	
+"The boy,the cop"	少年、　警官	
+the cop	警官	
+		
+The needle punctured the skin but it failed to register pain.	針は皮膚を刺した。しかしそれは痛みを感じなかった。	
+it	それ	
+"The needle,the skin"	針、　皮膚	
+the skin	皮膚	
+		
+The needle punctured the skin but it failed to administer pain.	針は皮膚を刺した。しかしそれは痛みを与えることができなかった。	
+it	それ	
+"The needle,the skin"	針、　皮膚	
+The needle	針	
+		
+The lion saw the fish and it pounced.	ライオンは魚を見た。そしてそれは飛びかかった。	
+it	それ	
+"The lion,the fish"	ライオン、　魚	
+The lion	ライオン	
+		
+The lion saw the fish and it was swimming.	ライオンは魚を見た。そしてそれは泳いでいた。	
+it	それ	
+"The lion,the fish"	ライオン、　魚	
+the fish	魚	
+		
+The clown smiled at the child and he cried.	道化師は子供に微笑んだ。そして彼は泣いた。	
+he	彼	
+"The clown,the child"	道化師、　子供	
+the child	子供	
+		
+The clown smiled at the child and he offered him a balloon.	道化師は子供に微笑んだ。そして彼は彼に風船を差し出した。	
+he	彼	
+"The clown,the child"	道化師、　子供	
+The clown	道化師	
+		
+The scientists gave the chimps some bananas because they were hungry.	科学者はチンパンジーにバナナをやった。それらはお腹を空かせていたからだ。	
+they	それら	
+"the chimps,some bananas"	チンパンジー、　バナナ	
+the chimps	チンパンジー	
+		
+The scientists gave the chimps some bananas because they were ripe.	科学者はチンパンジーにバナナをやった。それらは熟れていたから。	
+they	それら	
+"the chimps,some bananas"	チンパンジー、　バナナ	
+some bananas	バナナ	
+		
+The boss fired the worker when he stopped performing well.	上司は工員を首にした。彼の仕事の成績が落ちた時だった。	
+he	彼	
+"The boss,the worker"	上司、　工員	
+the worker	工員	
+		
+The boss fired the worker when he called him into the office.	上司は工員を首にした。彼が彼を事務所に呼んだ時だった。	
+he	彼	
+"The boss,the worker"	上司、　工員	
+The boss	上司	
+		
+The outlet powered the lamp when it had electricity.	コンセントは電灯に電力を供給した。そこに電気が来ているときは。	
+it	そこに	
+"The outlet,the lamp"	コンセント、　電灯	
+The outlet	コンセント	
+		
+The outlet powered the lamp when it was plugged in.	コンセントは電灯に電力を供給した。そこにプラグが差し込まれれば。	
+it	そこに	
+"The outlet,the lamp"	コンセント、　電灯	
+the lamp	電灯	
+		
+The paintball player was mad at the referee because he missed a call.	ペイントボールの選手は審判に対して腹を立てた。彼が判定を間違ったからだ。	
+he	彼	
+"The paintball player,the referee"	ペイントボールの選手、　審判	
+the referee	審判	
+		
+The paintball player was mad at the referee because he was called out but shouldn't.	ペイントボールの選手は審判に対して腹を立てた。彼が呼び出されたが、そうするべきではなかった。	
+he	彼	
+"The paintball player,the referee"	ペイントボールの選手、　審判	
+The paintball player	ペイントボールの選手	
+		
+The network heads cancelled the TV shows because they were not doing well.	キー局のトップたちはそれらのテレビ番組を取りやめた。それらはあまり人気がなかったからだ。	
+they	それら	
+"The network heads,the TV shows"	キー局のトップたち、　それらのテレビ番組	
+the TV shows	それらのテレビ番組	
+		
+The network heads cancelled the TV shows because they did not like the content.	キー局のトップたちはそれらのテレビ番組を取りやめた。彼らはそれらの内容が気に入らなかったのだ。	
+they	それら	
+"The network heads,the TV shows"	キー局のトップたち、　それらのテレビ番組	
+The network heads	キー局のトップたち	
+		
+The cheetah outran the antelope so it got to eat.	チータはアンテロープより速く走った。そしてそれは食べ始めた。	
+it	それ	
+"The cheetah,the antelope"	チータ、　アンテロープ	
+The cheetah	チータ	
+		
+The cheetah outran the antelope so it got eaten.	チータはアンテロープより速く走った。そしてそれは食べられた。	
+it	それ	
+"The cheetah,the antelope"	チータ、　アンテロープ	
+the antelope	アンテロープ	
+		
+The keys typed the words because they were meant to be typed.	キーは単語を打った。それらはタイプされることになっていた。	
+they	それら	
+"The keys,the words"	キー、　単語	
+the words	単語	
+		
+The keys typed the words because they were meant to be typed on.	キーは単語を打った。それらは打ち続けられることになっていた。	meant to type on?
+they	それら	
+"The keys,the words"	キー、　単語	
+The keys	キー	
+		
+The racquetball players were annoyed by the other students in the activity center because they were using the racquetball courts to play badminton.	ラケットボール選手は活動センターで他の生徒に邪魔をされた。彼らはラケットボールコートでバドミントンをしていたのだ。	
+they	彼ら	
+"The racquetball players,the other students"	ラケットボール選手、　他の生徒	
+the other students	他の生徒	
+		
+The racquetball players were annoyed by the other students in the activity center because they wanted to play and couldn't.	ラケットボール選手は活動センターで他の生徒に邪魔をされた。彼らは試合をしたかったができなかった。	
+they	彼ら	
+"The racquetball players,the other students"	ラケットボール選手、　他の生徒	
+The racquetball players	ラケットボール選手	
+		
+The teachers scolded the students because they would not learn the material.	教師たちは生徒たちを叱った。彼らは資料を覚えようとしなかったからだ。	
+they	彼ら	
+"The teachers,the students"	教師たち、　生徒たち	
+the students	生徒たち	
+		
+The teachers scolded the students because they were the authority figures.	教師たちは生徒たちを叱った。彼らは権威の象徴だったからだ。	
+they	彼ら	
+"The teachers,the students"	教師たち、　生徒たち	
+The teachers	教師たち	
+		
+The plane was in the sky and it was fast.	飛行機は空にあり、それは速かった。	
+it	それ	
+"The plane,the sky"	飛行機、　空	
+The plane	飛行機	
+		
+The plane was in the sky and it was cloudy.	飛行機は空にあり、それは曇っていた。	
+it	それ	
+"The plane,the sky"	飛行機、　空	
+the sky	空	
+		
+Joe crashed into Mike and he had to pay for the damage.	ジョーはマイクに衝突した。彼は損害分を支払わなくてはならなかった。	損害を賠償しなくてはならなかった？（『彼』がジョーの場合）
+he	彼	
+"Joe,Mike"	ジョー、　マイク	
+Mike	マイク	ジョーでも？
+		
+Joe crashed into Mike because he needed a place to sleep.	ジョーはマイクに倒れ掛かった。彼は眠る場所が必要だった。	
+he	彼	
+"Joe,Mike"	ジョー、　マイク	
+Joe	ジョー	
+		
+The man shot his friend and he died.	男は彼の友人を撃った。そして彼は死んだ。	
+he	彼	
+"The man,his friend"	男、　彼の友人	
+his friend	彼の友人	
+		
+The man shot his friend and he was arrested.	男は彼の友人を撃った。そして彼は逮捕された。	
+he	彼	
+"The man,his friend"	男、　彼の友人	
+The man	男	
+		
+The man killed the boss because he hated the job.	男は上司を殺害した。彼は仕事をひどく嫌っていた。	
+he	彼	
+"The man,the boss"	男、　上司	
+The man	男	
+		
+The man killed the boss because he fired him.	男は上司を殺害した。彼が彼を解雇したからだ。	
+he	彼	
+"The man,the boss"	男、　上司	
+the boss	上司	
+		
+Joe raced against Steven because he thought it would be easy.	ジョーはスティーブンと競争した。彼はそれを簡単だろうと思ったのだ。	
+he	彼	
+"Joe,Steven"	ジョー、　スティーブン	
+Joe	ジョー	
+		
+Joe raced against Steven because he would not say no.	ジョーはスティーブンと競争した。彼は決して否とは言わないから。	
+he	彼	
+"Joe,Steven"	ジョー、　スティーブン	
+Steven	スティーブン	
+		
+The light hit the mirror and it reflected.	光が鏡に当たった。そしてそれは反射した。	
+it	それ	
+"The light,the mirror"	光、　鏡	
+The light	光	
+		
+The light hit the mirror and it shattered.	光が鏡に当たった。そしてそれは割れた。	
+it	それ	
+"The light,the mirror"	光、　鏡	
+the mirror	鏡	
+		
+Google Plus is expected to be a replacement for Facebook but it still does not have enough active users.	グーグルプラスはフェイスブックの代替になると期待されている。しかしそれはまだ実際の利用者を獲得していない。	
+it	それ	
+"Google Plus,Facebook"	グーグルプラス、　フェイスブック	
+Google Plus	グーグルプラス	
+		
+Google Plus is expected to be a replacement for Facebook but it still has a lot more active users.	グーグルプラスはフェイスブックの代替になると期待されている。しかしそれはまだ多くの利用者を掴んでいる。	
+it	それ	
+"Google Plus,Facebook"	グーグルプラス、　フェイスブック	
+Facebook	フェイスブック	
+		
+The spear easily pierced through the armor because it was too sharp.	槍は容易に鎧を突き通した。それは非常に鋭かったからだ。	
+it	それ	
+"The spear,the armor"	槍、　鎧	
+The spear	槍	
+		
+The spear easily pierced through the armor because it was too thin.	槍は容易に鎧を突き通した。それは非常に薄かったからだ・	
+it	それ	
+"The spear,the armor"	槍、　鎧	
+the armor	鎧	
+		
+The cat caught the mouse because it was clever.	ネコはネズミを捕まえた。それは賢かったから。	
+it	それ	
+"The cat,the mouse"	ネコ、　ネズミ	
+The cat	ネコ	
+		
+The cat caught the mouse because it was careless.	ネコはネズミを捕まえた。それは油断していたからだ。	
+it	それ	
+"The cat,the mouse"	ネコ、　ネズミ	
+the mouse	ネズミ	
+		
+"Joseph did not defeat William in the match, so he paid $100."	ジョセフは試合でウィリアムに勝たなかった。それで彼は１００ドル払った。	
+he	彼	
+"Joseph,William"	ジョセフ、　ウィリアム	
+Joseph	ジョセフ	
+		
+"Joseph did not defeat William in the match, so he earned $100."	ジョセフは試合でウィリアムに勝たなかった。それで彼は１００ドル儲けた。	
+he	彼	
+"Joseph,William"	ジョセフ、　ウィリアム	
+William	ウィリアム	
+		
+"Adam failed to kill Alexander, so he hired a bodygaurd in case of a second attempt."	アダムはアレクサンダーの殺害に失敗した。そこで彼は再度を恐れてボディーガードを雇った。	
+he	彼	
+"Adam,Alexander"	アダム、　アレクサンダー	
+Alexander	アレクサンダー	
+		
+"Adam failed to kill Alexander, so he hired an assassin for the second attempt."	アダムはアレクサンダーの殺害に失敗した。そこで彼は再度のために暗殺者を雇った。	
+he	彼	
+"Adam,Alexander"	アダム、　アレクサンダー	
+Adam	アダム	
+		
+"The bowl had a crack, so it was filled in."	ボールに割れ目があった。だからそれは埋められた。	
+it	それ	
+"The bowl,a crack"	ボール、　割れ目	
+a crack	割れ目	
+		
+"The bowl had a crack, so it was thrown away."	ボールに割れ目があった。だからそれは捨てられた。	
+it	それ	
+"The bowl,a crack"	ボール、　割れ目	
+The bowl	ボール	
+		
+The student told the instructor that he was sick.	生徒は講師に彼は気分が悪いと言った。	
+he	彼	
+"The student,the instructor"	生徒、　講師	
+The student	生徒	
+		
+The student told the instructor that he talked fast.	生徒は講師に彼が早口だと言った。	
+he	彼	
+"The student,the instructor"	生徒、　講師	
+the instructor	講師	
+		
+Joe put Bob in the time machine and he went to the future.	ジョーはボブをタイムマシンに乗せた。そして彼は未来へ行った。	
+he	彼	
+"Joe,Bob"	ジョー、　ボブ	
+Bob	ボブ	
+		
+Joe put Bob in the time machine and he created another one.	ジョーはボブをタイムマシンに乗せた。そして彼はもう一つ製造した。	
+he	彼	
+"Joe,Bob"	ジョー、　ボブ	
+Joe	ジョー	
+		
+Bill asked Joe if he could borrow some money.	ビルはジョーに尋ねた。彼にいくらかお金を貸してくれないかと。	
+he	彼	
+"Bill,Joe"	ビル、　ジョー	
+Bill	ビル	
+		
+Bill asked Joe if he had any money.	ビルはジョーに尋ねた。彼はいくらかお金をもっているかと。	
+he	彼	
+"Bill,Joe"	ビル、　ジョー	
+Joe	ジョー	
+		
+The chef held the waiter so that he would not flee.	シェフはウェイターを掴んだ。彼が逃げないように。	
+he	彼	
+"The chef,the waiter"	シェフ、　ウェイター	
+the waiter	ウェイター	
+		
+The chef held the waiter so that he did not fall off.	シェフはウェイターを掴んだ。彼が落ちないように。	
+he	彼	
+"The chef,the waiter"	シェフ、　ウェイター	
+The chef	シェフ	ウェイターでも？
+		
+Tony helped Jeff because he wanted to help.	トニーはジェフを手伝った。彼は手伝いたかったのだ。	
+he	彼	
+"Tony,Jeff"	トニー、　ジェフ	
+Tony	トニー	
+		
+Tony helped Jeff because he needed help.	トニーはジェフを手伝った。彼は手助けが必要だったからだ。	
+he	彼	
+"Tony,Jeff"	トニー、　ジェフ	
+Jeff	ジェフ	
+		
+The cat was afraid of the dog because it was scary.	ネコはイヌを怖がった。それが恐ろしい存在だからだ。	
+it	それ	
+"The cat,the dog"	ネコ、　イヌ	
+the dog	イヌ	
+		
+The cat was afraid of the dog because it was timid.	ネコはイヌを怖がった。それが怖がりだったからだ。	
+it	それ	
+"The cat,the dog"	ネコ、　イヌ	
+The cat	ネコ	
+		
+The violin fell off the table because someone knocked it off.	バイオリンがテーブルから落ちた。誰かがそれを突き落としたからだ。	
+it	それ	
+"The violin,the table"	バイオリン、　テーブル	
+The violin	バイオリン	
+		
+The violin fell off the table because it was unstable.	バイオリンがテーブルから落ちた。それがグラグラしていたからだ。	
+it	それ	
+"The violin,the table"	バイオリン、　テーブル	
+the table	テーブル	
+		
+Lily gave Amber a hug because she was sad.	リリーはアンバーを抱きしめた。彼女が悲しんでいたからだ。	
+she	彼女	
+"Lily,Amber"	リリー、　アンバー	
+Amber	アンバー	
+		
+Lily gave Amber a hug because she was sorry.	リリーはアンバーを抱きしめた。彼女は同情したのだ。	
+she	彼女	
+"Lily,Amber"	リリー、　アンバー	
+Lily	リリー	
+		
+The birds ate the seeds because they were hungry.	鳥は種を食べた。それらは空腹だったからだ。	
+they	それら	
+"The birds,the seeds"	鳥、　種	
+The birds	鳥	
+		
+The birds ate the seeds because they were tasty.	鳥は種を食べた。それらはおいしいからだ。	
+they	それら	
+"The birds,the seeds"	鳥、　種	
+the seeds	種	
+		
+"Josie did not like Sarah, but she did not know it."	ジョジーはセーラが好きではなかった。しかし彼女はそのことを知らなかった。	
+she	彼女	
+"Josie,Sarah"	ジョジー、セーラ	
+Sarah	セーラ	
+		
+"Josie did not like Sarah, but she did not tell her."	ジョジーはセーラが好きではなかった。しかし彼女は彼女に言わなかった。	
+she	彼女	
+"Josie,Sarah"	ジョジー、セーラ	
+Josie	ジョジー	
+		
+Ken tried to sneak past the boss because he was late for work.	ケンは上司をそっと追い越そうとした。彼は仕事に遅刻していたからだ。	
+he	彼	
+"Ken,the boss"	ケン、　上司	
+Ken	ケン	
+		
+Ken tried to sneak past the boss because he was looking for late people.	ケンは上司をそっと追い越そうとした。彼は遅刻した人々を見張っていたからだ。	
+he	彼	
+"Ken,the boss"	ケン、　上司	
+the boss	上司	
+		
+The hyenas scavenged from the lions because they were desperate.	ハイエナはライオンが食べた後をあさった。彼らは死にもの狂いだった。	
+they	彼ら	
+"The hyenas,the lions"	ハイエナ、　ライオン	
+The hyenas	ハイエナ	
+		
+The hyenas scavenged from the lions because they had left scraps.	ハイエナはライオンが食べた後をあさった。彼らが食べ残しを置いて行ったからだ。	
+they	彼ら	
+"The hyenas,the lions"	ハイエナ、　ライオン	
+the lions	ライオン	
+		
+The fisherman hooked a big fish but he got away.	漁師は大きな魚を引っかけた。しかし彼は逃げてしまった。	
+he	彼	
+"The fisherman,a big fish"	漁師、　大きな魚	
+a big fish	大きな魚	
+		
+The fisherman hooked a big fish but he dropped his pole.	漁師は大きな魚を引っかけた。しかし彼は竿を落としてしまった。	
+he	彼	
+"The fisherman,a big fish"	漁師、　大きな魚	
+The fisherman	漁師	
+		
+The geology department petitioned the school board for money because they needed funding.	地質課は教育委員会に予算を申請した。彼らは財源が必要だったからだ。	
+they	彼ら	
+"The geology department,the school board"	地質課、　教育委員会	
+The geology department	地質課	
+		
+The geology department petitioned the school board for money because they could grant funding.	地質課は教育委員会に予算を申請した。彼らは資金を供与できるかもしれなかったからだ。	
+they	彼ら	
+"The geology department,the school board"	地質課、　教育委員会	
+the school board	教育委員会	
+		
+"George scored against Thomas in the shootout, so he won the game."	ジョージはトーマスを相手にペナルティーキックで得点した。そして彼は試合に勝った。	
+he	彼	
+"George,Thomas"	ジョージ、　トーマス	
+George	ジョージ	
+		
+"George scored against Thomas in the shootout, so he lost the game."	ジョージはトーマスを相手にペナルティーキックで得点した。そして彼は試合に負けた。	
+he	彼	
+"George,Thomas"	ジョージ、　トーマス	
+Thomas	トーマス	
+		
+Lakshman asked Vivan to get him some ice cream because he was hot.	ラクシュマンはヴィヴァンにアイスクリームを買ってくるよう頼んだ。彼は暑かったからだ。	
+he	彼	
+"Lakshman,Vivan"	ラクシュマン、　ヴィヴァン	
+Lakshman	ラクシュマン	
+		
+Lakshman asked Vivan to get him some ice cream because he owed him money.	ラクシュマンはヴィヴァンにアイスクリームを買ってくるよう頼んだ。彼は彼に借りがあったからだ。	
+he	彼	
+"Lakshman,Vivan"	ラクシュマン、　ヴィヴァン	
+Vivan	ヴィヴァン	
+		
+Yuri owed Ivan money because he paid for the vodka.	ユリはアイヴァンに借りがあった。彼がウォッカの代金を払ったからだ。	
+he	彼	
+"Yuri,Ivan"	ユリ、　アイヴァン	
+Ivan	アイヴァン	
+		
+Yuri owed Ivan money because he lost the bet.	ユリはアイヴァンに借りがあった。彼は賭けに負けたからだ。	
+he	彼	
+"Yuri,Ivan"	ユリ、　アイヴァン	
+Yuri	ユリ	
+		
+Steve hired Jose because he was a hard worker.	スティーブはホセを雇った。彼が勤勉だったからだ。	
+he	彼	
+"Steve,Jose"	スティーブ、　ホセ	
+Jose	ホセ	
+		
+Steve hired Jose because he could not find anyone better.	スティーブはホセを雇った。彼は他によい人が見つけられなかったのだ。	
+he	彼	
+"Steve,Jose"	スティーブ、　ホセ	
+Steve	スティーブ	
+		
+"The outlaw shot the sheriff, but he did not shoot the deputy."	無法者は保安官を撃った。しかし彼は副保安官を撃たなかった。	
+he	彼	
+"The outlaw,the sheriff"	無法者、　保安官	
+The outlaw	無法者	
+		
+"The outlaw shot the sheriff, but he shot back."	無法者は保安官を撃った。しかし彼は撃ち返した。	
+he	彼	
+"The outlaw,the sheriff"	無法者、　保安官	
+the sheriff	保安官	
+		
+"Kelly neglected to tell Katie that their rent was due, but she told her later."	ケリーはケイティに家賃の支払い日だときちんと言わなかった。しかし彼女は後で彼女に話した。	
+she	彼女	
+"Kelly,Katie"	ケリー、　ケイティ	
+Kelly	ケリー	
+		
+"Kelly neglected to tell Katie that their rent was due, but she remembered that it was due on the first of every month."	ケリーはケイティに家賃の支払い日だときちんと言わなかった。しかし彼女は毎月一日が支払日だと覚えていた。	
+she	彼女	
+"Kelly,Katie"	ケリー、　ケイティ	
+Katie	ケイティ	
+		
+"The committee increased the price of the tickets to the dance for the students, but they did not like it."	委員会は学生のためのダンスパーティの入場料券代を値上げした。しかし彼らはそれを気に入らなかった。	
+they	彼ら	
+"The committee,the students"	委員会、　学生	
+the students	学生	
+		
+"The committee increased the price of the tickets to the dance for the students, but they changed their decision later."	委員会は学生のためのダンスパーティの入場券代を値上げした。しかし彼らは後にその決定を変更した。	
+they	彼ら	
+"The committee,the students"	委員会、　学生	
+The committee	委員会	
+		
+John wanted George to run for President because he was a great governor.	ジョンはジョージに大統領選に出馬してもらいたかった。彼が偉大な知事っだったからだ。	
+he	彼	
+"John,George"	ジョン、　ジョージ	
+George	ジョージ	
+		
+John wanted George to run for President because he did not want to.	ジョンはジョージに大統領選に出馬してもらいたかった。彼が出たくなかったからだ。	
+he	彼	
+"John,George"	ジョン、　ジョージ	
+John	ジョン	
+		
+"Olivia wants to make amends with Emily, but she is apprehensive."	オリヴィアはエミリーの機嫌を取り繕いたかった。でも彼女は不安だった。	
+she	彼女	
+"Olivia,Emily"	オリヴィア、　エミリー	
+Olivia	オリヴィア	
+		
+"Olivia wants to make amends with Emily, but she no longer wants to be friends."	オリヴィアはエミリーの機嫌を取り繕いたかった。しかし彼女はもう友達でいたくなかった。	
+she	彼女	
+"Olivia,Emily"	オリヴィア、　エミリー	
+Emily	エミリー	
+		
+"Jill saw Jane fall down, and she helped her up."	ジルはジェーンが倒れるのを見た。そして彼女は彼女を助け起こした。	
+she	彼女	
+"Jill,Jane"	ジル、　ジェーン	
+Jill	ジル	
+		
+"Jill saw Jane fall down, and she asked her for help."	ジルはジェーンが倒れるのを見た。そして彼女は彼女に助けを求めた。	
+she	彼女	
+"Jill,Jane"	ジル、　ジェーン	
+Jane	ジェーン	
+		
+"Larry purchased some of Marty's Lemonade, and he made money."	ラリーはマーティのレモネードを少し買った。そして彼は儲かった。	
+he	彼	
+"Larry,Marty"	ラリー、　マーティ	
+Marty	マーティ	
+		
+"Larry purchased some of Marty's Lemonade, and he wanted the recipe."	ラリーはマーティのレモネードを少し買った。そして彼はレシピを欲しがった。	
+he	彼	
+"Larry,Marty"	ラリー、　マーティ	
+Larry	ラリー	
+		
+The professor gave the student a bad grade because he did not study.	教授は学生に低い成績をつけた。彼が勉強しなかったからだ。	
+he	彼	
+"The professor,the student"	教授、　学生	
+the student	学生	
+		
+The professor gave the student a bad grade because he was strict.	教授は学生に低い成績をつけた。彼は厳格だったからだ。	
+he	彼	
+"The professor,the student"	教授、　学生	
+The professor	教授	
+		
+We took the books to the shops because they were old.	私たちは本を店に持って行った。それらは古かったからだ。	
+they	それら	
+"the books,the shops"	本、　店	
+the books	本	
+		
+We took the books to the shops because they would buy them.	私たちは本を店に持って行った。彼らがそれらを買うだろうから。	
+they	彼ら	
+"the books,the shops"	本、　店	
+the shops	店	
+		
+We gave the fruit to the humans because they were hungry.	私たちは人間に果物を与えた。彼らが空腹だったからだ。	
+they	彼ら	
+"the fruit,the humans"	果物、　人間	
+the humans	人間	
+		
+We gave the fruit to the humans because they were ripe.	私たちは人間に果物を与えた。それらが熟していたからだ。	
+they	それら	
+"the fruit,the humans"	果物、　人間	
+the fruit	果物	
+		
+Battlefield 3 is more fun than Modern Warfare 3 because it is a better game.	バトルフィールド３はモダン・ウォーフェア３より面白い。それの方がましなゲームだ。	
+it	それ	
+"Battlefield 3,Modern Warfare 3"	バトルフィールド３、モダン・ウォーフェア３	
+Battlefield 3	バトルフィールド３	
+		
+Battlefield 3 is more fun than Modern Warfare 3 because it is a crappy game.	バトルフィールド３はモダン・ウォーフェア３より面白い。それはくだらないゲームだ。	
+it	それ	
+"Battlefield 3,Modern Warfare 3"	バトルフィールド３、モダン・ウォーフェア３	
+Modern Warfare 3	モダン・ウォーフェア３	
+		
+John attacked Tim because he hates communists.	ジョンはティムを攻撃した。彼は共産主義者を憎んでいたからだ。	
+he	彼	
+"John,Tim"	ジョン、　ティム	
+John	ジョン	
+		
+John attacked Tim because he was a communist.	ジョンはティムを攻撃した。彼は共産主義者だったからだ。	
+he	彼	
+"John,Tim"	ジョン、　ティム	
+Tim	ティム	
+		
+Someone hit Billy in the face because he was angry.	誰かがビリーの顔を殴った。彼は怒っていたのだ。	
+he	彼	
+"Someone,Billy"	誰か、　ビリー	
+Someone	誰か	
+		
+Someone hit Billy in the face because he was being rude.	誰かがビリーの顔を殴った。彼が失礼だったからだ。	
+he	彼	
+"Someone,Billy"	誰か、　ビリー	
+Billy	ビリー	
+		
+Joe has more money than Adam since he has a better job.	ジョーはアダムよりお金を持っている。彼の方が良い職についていからだ。。	
+he	彼	
+"Joe,Adam"	ジョー、　アダム	
+Joe	ジョー	
+		
+Joe has more money than Adam since he has no job.	ジョーはアダムよりお金を持っている。彼は失業しているからだ。	
+he	彼	
+"Joe,Adam"	ジョー、　アダム	
+Adam	アダム	
+		
+Pigs are better than sheep because they make bacon.	豚は羊より良い。それらはベーコンになるからだ。	
+they	それら	
+"Pigs,sheep"	豚、　羊	
+Pigs	豚	
+		
+Pigs are better than sheep because they do not make bacon.	豚は羊より良い。それらはベーコンにならないからだ。	
+they	それら	
+"Pigs,sheep"	豚、　羊	
+sheep	羊	
+		
+The car beat the bike because it was faster.	車は自転車に勝った。それの方が速かったからだ。	
+it	それ	
+"The car,the bike"	車、　自転車	
+The car	車	
+		
+The car beat the bike because it was too slow.	車は自転車に勝った。それはあまりにも遅かったからだ。	
+it	それ	
+"The car,the bike"	車、　自転車	
+the bike	自転車	
+		
+The blimp hit the tree because it lost air.	小型飛行船は木にぶつかった。それは空気を失ったからだ。	
+it	それ	
+"The blimp,the tree"	小型飛行船、　木	
+The blimp	小型飛行船	
+		
+The blimp hit the tree because it was in the way.	小型飛行船は木にぶつかった。それが進路を邪魔していたからだ。	
+it	それ	
+"The blimp,the tree"	小型飛行船、　木	
+the tree	木	
+		
+Bob sued Bill because he was embezzling funds.	ボブはビルを訴えた。彼が基金を使い込んでいたからだ。	
+he	彼	
+"Bob,Bill"	ボブ、　ビル	
+Bill	ビル	
+		
+Bob sued Bill because he wanted more money.	ボブはビルを訴えた。彼はもっと金が欲しかったのだ。	
+he	彼	
+"Bob,Bill"	ボブ、　ビル	
+Bob	ボブ	
+		
+I gave the donkey some food because it was hungry.	私はロバに餌をやった。それはお腹を空かせていたからだ。	
+it	それ	
+"some food,the donkey"	餌、　ロバ	
+the donkey	ロバ	
+		
+I gave the donkey some food because it was fresh.	私はロバに餌をやった。それが新鮮だったからだ。	
+it	それ	
+"some food,the donkey"	餌、　ロバ	
+some food	餌	
+		
+The humans were afraid of the robots because they were weak.	人間はロボットを恐れていた。彼らは弱かったからだ。	
+they	彼ら	
+"The humans,the robots"	人間、　ロボット	
+The humans	人間	
+		
+The humans were afraid of the robots because they were strong.	人間はロボットを恐れていた。彼らは強かったからだ。	
+they	彼ら	
+"The humans,the robots"	人間、　ロボット	
+the robots	ロボット	
+		
+The Playstation is outperforming the Xbox because it has better games.	プレイステーションはXボックスより優れている。それの方がより良いゲームがある。	
+it	それ	
+"The Playstation,the Xbox"	プレイステーション、　Xボックス	
+The Playstation	プレイステーション	
+		
+The Playstation is outperforming the Xbox because it is prone to hardware failure.	プレイステーションはXボックスより優れている。それはハードウェア障害が起こり易いのだ。	
+it	それ	
+"The Playstation,the Xbox"	プレイステーション、　Xボックス	
+the Xbox	Xボックス	
+		
+Sean is better than Watson at anaphora resolution because he can naturally understand natural language.	ショーンはワトソンより照応解決に優れている。彼は自然言語を自然に理解することができるからだ。	
+he	彼	
+"Sean,Watson"	ショーン、　ワトソン	
+Sean	ショーン	
+		
+Sean is better than Watson at anaphora resolution because he has trouble understanding natural language.	ショーンはワトソンより照応解決に優れている。彼は自然言語の理解に苦労しているのだ。。	
+he	彼	
+"Sean,Watson"	ショーン、　ワトソン	
+Watson	ワトソン	
+		
+Sentient machines will kill all humans because they have giant death rays.	センティエントマシンは全ての人間を殺すだろう。彼らには巨大な殺人光線があるから。	
+they	彼ら	
+"Sentient machines,all humans"	センティエントマシン、　全ての人間	
+Sentient machines	センティエントマシン	
+		
+Sentient machines will kill all humans because they are inferior beings.	センティエントマシンは全ての人間を殺すだろう。彼らは劣った存在だからだ。	
+they	彼ら	
+"Sentient machines,all humans"	センティエントマシン、　全ての人間	
+all humans	全ての人間	
+		
+Watson beat Ken at Jeopardy because he is a superior machine.	ワトソンはジオパディでケンを負かした。彼は優れた機械だ。	
+he	彼	
+"Watson,Ken"	ワトソン、　ケン	
+Watson	ワトソン	
+		
+Watson beat Ken at Jeopardy because he is an inferior human.	ワトソンはジオパディでケンを負かした。彼は劣った人間だからだ。	
+he	彼	
+"Watson,Ken"	ワトソン、　ケン	
+Ken	ケン	
+		
+Larry trusted Page because Bill told him to.	ラリーはペイジを信頼した。ビルが彼にそうするように言ったからだ。	
+him	彼に	
+"Larry,Page"	ラリー、　ペイジ	
+Larry	ラリー	
+		
+Larry trusted Page because Bill knows him.	ラリーはペイジを信頼した。ビルが彼を知っているから。	
+him	彼を	
+"Larry,Page"	ラリー、　ペイジ	
+Page	ペイジ	
+		
+Cosby supported Jay because Thea really liked him.	コスビーはジェイを支えた。テアが彼をすごく好きだったからだ。	
+him	彼を	
+"Cosby,Jay"	コスビー、　ジェイ	
+Jay	ジェイ	
+		
+Cosby supported Jay because Thea asked him to.	コスビーはジェイを支えた。テアが彼にそう頼んだからだ。	
+him	彼に	
+"Cosby,Jay"	コスビー、　ジェイ	
+Cosby	コスビー	
+		
+Jace loves Jesus because he died for him.	ジェイスはイエスを愛した。彼は彼のために死んだからだ。	
+he	彼	
+"Jace,Jesus"	ジェイス、　イエス	
+Jesus	イエス	
+		
+Jace loves Jesus because he tasted his goodness.	ジェイスはイエスを愛した。彼は身をもって彼の善良さを知ったからだ。	
+he	彼	
+"Jace,Jesus"	ジェイス、　イエス	
+Jace	ジェイス	
+		
+Olga kicked Sara because she woke her up.	オルガはセーラを蹴った。彼女が彼女を起こしたからだ。	
+she	彼女	
+"Olga,Sara"	オルガ、　セーラ	
+Sara	セーラ	
+		
+Olga kicked Sara because she was drunk.	オルガはセーラを蹴った。彼女は酔っぱらっていたのだ。	
+she	彼女	
+"Olga,Sara"	オルガ、　セーラ	
+Olga	オルガ	
+		
+Nola shot Christina in the head because she threatened to take all of her money.	ノラはクリスティナの頭を撃った。彼女が彼女の全財産を取ると脅したからだ。	
+she	彼女	
+"Nola,Christina"	ノラ、　クリスティナ	
+Christina	クリスティナ	
+		
+Nola shot Christina in the head because she thought it was a good idea to kill a human being.	ノラはクリスティナの頭を撃った。彼女は人間を殺すのは良い考えだと思ったからだ。	
+she	彼女	
+"Nola,Christina"	ノラ、　クリスティナ	
+Nola	ノラ	
+		
+Rebecca kissed Dina because she loves her.	レベッカはダイナにキスした。彼女は彼女を愛していたからだ。	
+she	彼女	
+"Rebecca,Dina"	レベッカ、　ダイナ	
+Rebecca	レベッカ	
+		
+Rebecca kissed Dina because she is a sweet girl.	レベッカはダイナにキスした。彼女は優しい子だったから。	
+she	彼女	
+"Rebecca,Dina"	レベッカ、　ダイナ	
+Dina	ダイナ	
+		
+Mom brought Sara from school early because she was sick.	ママはセーラを学校から早く連れて帰った。彼女が病気だったからだ。	
+she	彼女	
+"Mom,Sara"	ママ、　セーラ	
+Sara	ママ	
+		
+Mom brought Sara from school early because she had an early meeting.	ママはセーラを学校から早く連れて帰った。彼女は早く始まる会議があったからだ。	
+she	彼女	
+"Mom,Sara"	ママ、　セーラ	
+Mom	ママ	
+		
+Gorden got mad at his brother because he forgot to bring him chocolate.	ゴーデンは彼の弟に腹を立てた。彼がチョコレートを持ってくるのを忘れたからだ。	
+he	彼	
+"Gorden,his brother"	ゴーデン、　彼の弟	
+his brother	彼の弟	
+		
+Gorden got mad at his brother because he did not get good sleep.	ゴーデンは彼の弟に腹を立てた。彼は良く眠れなかったからだ。	
+he	彼	
+"Gorden,his brother"	ゴーデン、　彼の弟	
+Gorden	ゴーデン	
+		
+John asked Bill because he was confused.	ジョンはビルに聞いた。彼は頭がこんがらがってしまったからだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+John	ジョン	
+		
+John asked Bill because he knew the answer.	ジョンはビルに聞いた。彼が答えを知っていたからだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+Bill	ビル	
+		
+John rated Bill because he was the judge.	ジョンはビルを評価した。彼は判定者だったからだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+John	ジョン	
+		
+John rated Bill because he was a contestant.	ジョンはビルを評価した。彼は出場者だったからだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+Bill	ビル	
+		
+John called Bill because he needed someone to talk to.	ジョンはビルに電話をかけた。彼は誰か話し相手が必要だったのだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+John	ジョン	
+		
+John called Bill because he was a good listener.	ジョンはビルに電話をかけた。彼は聞き上手だったからだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+Bill	ビル	
+		
+John killed Bill because he was fighting for his life.	ジョンはビルを殺した。彼は命がけだったのだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+John	ジョン	
+		
+John killed Bill because he was a zombie.	ジョンはビルを殺した。彼はゾンビだったからだ。	
+he	彼	
+"John,Bill"	ジョン、　ビル	
+Bill	ビル	
+		
+Billy beat Tommy at Scrabble because that newbie had no skill.	ビリーはスクラブルでトミーを負かした。あの新入りには能力がなかったから。	
+that newbie	あの新入り	
+"Billy,Tommy"	ビリー、　トミー	
+Tommy	トミー	
+		
+Billy beat Tommy at Scrabble because that newbie had all the luck.	ビリーはスクラブルでトミーを負かした。あの新入りには運がついていた。	
+that newbie	あの新入り	
+"Billy,Tommy"	ビリー、　トミー	
+Billy	ビリー	
+		
+Mary had a little lamb until she was stolen by Cindy.	メアリは小さな子羊を飼っていた。彼女がシンディに盗まれるまでだが。	
+she	彼女	
+"Mary,a little lamb"	メアリ、　小さな子羊	
+a little lamb	小さな子羊	
+		
+Mary had a little lamb until she had lamb chops for dinner.	メアリは小さな子羊を飼っていた。彼女が晩御飯にラムチョップを食べるまで。	
+she	彼女	
+"Mary,a little lamb"	メアリ、　小さな子羊	
+Mary	メアリ	
+		
+The wolves chased the deer because they were predators.	オオカミはシカを追いかけた。それらは捕食動物だからだ。	
+they	それら	
+"The wolves,the deer"	オオカミ、　シカ	
+The wolves	オオカミ	
+		
+The wolves chased the deer because they were prey.	オオカミはシカを追いかけた。それらは獲物だからだ。	
+they	それら	
+"The wolves,the deer"	オオカミ、　シカ	
+the deer	シカ	
+		
+The girls ate the apples because they were hungry.	少女らはリンゴを食べた。彼女らは空腹だったからだ。	
+they	彼女ら	
+"The girls,the apples"	少女ら、　リンゴ	
+The girls	少女ら	
+		
+The girls ate the apples because they were ripe.	少女らはリンゴを食べた。それらは熟していたから。	
+they	それら	
+"The girls,the apples"	少女ら、　リンゴ	
+the apples	リンゴ	
+		
+The minister befriended King George so he would not get beheaded.	大臣はジョージ王の味方した。彼が断頭されないようにだ。	
+he	彼	
+"The minister,King George"	大臣、　ジョージ王	
+The minister	大臣	
+		
+The minister befriended King George so he could have some friends.	大臣はジョージ王の友人になった。それで彼は数人の友人を得ることができた。	
+he	彼	
+"The minister,King George"	大臣、　ジョージ王	
+King George	ジョージ王	
+		
+Mary likes Joe because she has a cool name.	メアリはジョーが好きだ。彼女は名前が素敵だからだ。	
+she	彼女	
+"Mary,Joe"	メアリ、　ジョー	
+Joe	ジョー	
+		
+Mary likes Joe because she likes females.	メアリはジョーが好きだ。彼女は女性が好きだからだ。	
+she	彼女	
+"Mary,Joe"	メアリ、　ジョー	
+Mary	メアリ	
+		
+The bat hit the ball because it flew in the way of the trajectory.	バットはボールに当たった。それが軌道を描くように飛んだからだ。	
+it	それ	
+"The bat,the ball"	バット、　ボール	
+The bat	バット	ボールでも？
+		
+The bat hit the ball because it flew straight at the poor animal.	バットはボールを打った。それは可哀想な動物に向かってまっしぐらにとんだからだ。	
+it	それ	
+"The bat,the ball"	バット、　ボール	
+the ball	ボール	
+		
+The knife sliced through the flesh because it was sharp.	ナイフは肉をサッと切った。それは鋭利だったから。	
+it	それ	
+"The knife,the flesh"	ナイフ、　肉	
+The knife	ナイフ	
+		
+The knife sliced through the flesh because it was tender.	ナイフは肉をサッと切った。それは柔らかだったからだ。	
+it	それ	
+"The knife,the flesh"	ナイフ、　肉	
+the flesh	肉	
+		
+"The boy lied to his father about the crime, but he still felt uneasy and was slowly overcome with guilt."	少年はその犯罪のことで父に嘘をついた。しかし彼はいまだに不安で、徐々に罪の意識にさいなまれた。	
+he	彼	
+"The boy,his father"	少年、　父	
+The boy	少年	
+		
+"The boy lied to his father about the crime, but he still felt uneasy and was slowly overcome with curiosity."	少年はその犯罪のことで父に嘘をついた。しかし彼はいまだに心配で、徐々に好奇心に襲われた。	
+he	彼	
+"The boy,his father"	少年、　父	
+his father	父	
+		
+The apple wine entered my mouth because it tastes good.	りんご酒がわたしの口に入った。それは美味しかったから。	
+it	それ	
+"The apple wine,my mouth"	りんご酒、　わたしの口	
+The apple wine	りんご酒	
+		
+The apple wine entered my mouth because it was not full.	りんご酒がわたしの口に入った。それは一杯ではなかったから。	
+it	それ	
+"The apple wine,my mouth"	りんご酒、　わたしの口	
+my mouth	わたしの口	
+		
+The boy helped his friend move because he was going to be free all day.	少年は友達の引っ越しを手伝った。彼は丸一日暇の予定だったからだ。	
+he	彼	
+"The boy,his friend"	少年、　友達	
+The boy	少年	
+		
+The boy helped his friend move because he was going to be busy all day.	少年は友達の引っ越しを手伝った。彼は丸一日忙しくなりそうだったからだ。	
+he	彼	
+"The boy,his friend"	少年、　友達	
+his friend	友達	
+		
+The boy secretly watched his friend because he wanted the secret information.	少年は密かに彼の友人を見張った。彼は秘密の情報が欲しかったからだ。	
+he	彼	
+"The boy,his friend"	少年、　友人	
+The boy	少年	
+		
+The boy secretly watched his friend because he had the secret information.	少年は密かに彼の友人を見張った。彼は秘密の情報を持っていたからだ。	
+he	彼	
+"The boy,his friend"	少年、　友人	
+his friend	友人	
+		
+"The bug was flying towards the light, but it was exterminated prematurely."	虫は光に向かって飛んでいた。しかしそれは行き着く前に駆除された。	
+it	それ	
+"The bug,the light"	虫、　光	
+The bug	虫	
+		
+"The bug was flying towards the light, but it was extinguished prematurely."	虫は光に向かって飛んでいた。しかしそれは早々に消された。	
+it	それ	
+"The bug,the light"	虫、　光	
+the light	光	
+		
+"The man offered the boy candy, but he had no candy."	男は少年にキャンディをあげると言った。しかし彼はキャンディをもっていなかった。	
+he	彼	
+"The man,the boy"	男、　少年	
+The man	男	
+		
+"The man offered the boy candy, but he got no candy."	男は少年にキャンディをあげると言った。しかし彼はキャンディをもらわなかった。	
+he	彼	
+"The man,the boy"	男、　少年	
+the boy	少年	
+		
+Paul screamed at Jack since he was angry.	ポールはジャックに怒鳴り散らした。彼は怒っていたのだ。	
+he	彼	
+"Paul,Jack"	ポール、　ジャック	
+Paul	ポール	
+		
+Paul screamed at Jack since he was ignoring him.	ポールはジャックに怒鳴り散らした。彼が彼を無視していたからだ。	
+he	彼	
+"Paul,Jack"	ポール、　ジャック	
+Jack	ジャック	
+		
+The baby cow cried at the farmer because he wanted milk.	仔牛は農夫に向かって鳴いた。彼はミルクが欲しかったのだ。	
+he	彼	
+"The baby cow,the farmer"	仔牛、　農夫	
+The baby cow	仔牛	
+		
+The baby cow cried at the farmer because he had milk.	仔牛は農夫に向かって鳴いた。彼がミルクをもっていたからだ。	
+he	彼	
+"The baby cow,the farmer"	仔牛、　農夫	
+the farmer	農夫	
+		
+My teacher asked a student to make sentences because he was late to class.	私の先生はある生徒に文を作るように言った。彼が授業に遅れたからだ。	
+he	彼	
+"My teacher,a student"	私の先生、　ある生徒	
+a student	ある生徒	
+		
+My teacher asked a student to make sentences because he wanted to see him write.	私の先生はある生徒に文を作るように言った。彼は彼が書くところを見たかったからだ。	
+he	彼	
+"My teacher,a student"	私の先生、　ある生徒	
+My teacher	私の先生	
+		
+The gym teachers trained the students because they wanted to teach them discipline.	体育教師らは生徒らを訓練した。彼らは彼らに規律を教えたかったのだ。	
+they	彼ら	
+"The gym teachers,the students"	体育教師ら、　生徒ら	
+The gym teachers	体育教師ら	
+		
+The gym teachers trained the students because they wanted to become better players.	体育教師らは生徒らを訓練した。彼らはより優れた選手になりたかったからだ。	
+they	彼ら	
+"The gym teachers,the students"	体育教師ら、　生徒ら	
+the students	生徒ら	
+		
+The Skyline drifts better than the F-150 because it is well balanced.	スカイラインはF−１５０よりよくドリフトする。それはバランスが良いからだ。	
+it	それ	
+"The Skyline,the F-150"	スカイライン、　F−１５０	
+The Skyline	スカイライン	
+		
+The Skyline drifts better than the F-150 because it is not meant to drift.	スカイラインはF−１５０よりよくドリフトする。それはドリフトするように作られていないからだ。	
+it	それ	
+"The Skyline,the F-150"	スカイライン、　F−１５０	
+the F-150	F−１５０	
+		
+The city council granted a permit to the construction workers because they were well qualified.	市議会は建設作業員らに許可を与えた。彼らは全員資格要件を満たしていたからだ。	
+they	彼ら	
+"The city council,the construction workers"	市議会、　建設作業員ら	
+the construction workers	建設作業員ら	
+		
+The city council granted a permit to the construction workers because they were elected to encourage business.	市議会は建設作業員らに許可を与えた。彼らはビジネスを振興するために選ばれたのだから。	
+they	彼ら	
+"The city council,the construction workers"	市議会、　建設作業員ら	
+The city council	市議会	
+		
+"Rick Perry is doing stronger than Mitt Romney in the polls, but he is coming back as a strong candidate."	投票でリック・ペリーはミット・ロムニーより堅調だ。しかし彼は手強い候補者として戻って来る。	
+he	彼	
+"Rick Perry, Mitt Romney"	リック・ペリー、　ミット・ロムニー	
+Mitt Romney	ミット・ロムニー	
+		
+"Rick Perry is doing stronger than Mitt Romney in the polls, but he is confident to maintain the lead."	投票でリック・ペリーはミット・ロムニーより堅調だ。しかし彼は優勢を維持する自信がある。	
+he	彼	
+"Rick Perry, Mitt Romney"	リック・ペリー、　ミット・ロムニー	
+Rick Perry	リック・ペリー	
+		
+The Detroit Lions beat the Dallas Cowboys because they had more desire to win.	デトロイト・ライオンズはダラス・カウボーイズを打ち負かした。彼らの方が勝利への意欲が強かったからだ。	
+they	彼ら	
+"The Detroit Lions,the Dallas Cowboys"	デトロイト・ライオンズ、　ダラス・カウボーイズ	
+The Detroit Lions	デトロイト・ライオンズ	
+		
+The Detroit Lions beat the Dallas Cowboys because they were unprepared.	デトロイト・ライオンズはダラス・カウボーイズを打ち負かした。彼らは不用意だったからだ。	
+they	彼ら	
+"The Detroit Lions,the Dallas Cowboys"	デトロイト・ライオンズ、　ダラス・カウボーイズ	
+the Dallas Cowboys	ダラス・カウボーイズ	
+		
+James Cameron is more successful than Michael Bay because his movies sell more worldwide.	ジェームズ・キャメロンはマイケル・ベイより成功している。彼の映画の方が世界中で良く売れている。	
+his	彼の	
+"James Cameron,Michael Bay"	ジェームズ・キャメロン、　マイケル・ベイ	
+James Cameron	ジェームズ・キャメロン	
+		
+James Cameron is more successful than Michael Bay because his movies do not create as much hype.	ジェームズ・キャメロンはマイケル・ベイより成功している。彼の映画はそれほど大げさではないからだ。	
+his	彼の	
+"James Cameron,Michael Bay"	ジェームズ・キャメロン、　マイケル・ベイ	
+Michael Bay	マイケル・ベイ	
+		
+Audrey Hepburn made more movies than Katherine Hepburn because she was pretty and talented.	オードリー・ヘップバーンはキャサリン・ヘップバーンより多くの映画を作成した。彼女は美しく才能に恵まれていた。	
+she	彼女	
+"Audrey Hepburn,Katherine Hepburn"	オードリー・ヘップバーン、　キャサリン・ヘップバーン	
+Audrey Hepburn	オードリー・ヘップバーン	
+		
+Audrey Hepburn made more movies than Katherine Hepburn because she was not as good at acting.	オードリー・ヘップバーンはキャサリン・ヘップバーンより多くの映画を作成した。彼女は彼女ほど演技に優れていなかったから。	
+she	彼女	
+"Audrey Hepburn,Katherine Hepburn"	オードリー・ヘップバーン、　キャサリン・ヘップバーン	
+Katherine Hepburn	キャサリン・ヘップバーン	
+		
+The Penguins scored two goals against the Flyers in two minutes because they were not concentrating.	ペンギンズはフライヤーズを相手に2分間で２ゴールをあげた。彼らは集中していなかったからだ。	
+they	彼ら	
+"The Penguins,the Flyers"	ペンギンズ、　フライヤーズ	
+the Flyers	フライヤーズ	
+		
+The Penguins scored two goals against the Flyers in two minutes because they are more skilled.	ペンギンズはフライヤーズを相手に2分間で２ゴールをあげた。彼らの方が上手かった。	
+they	彼ら	
+"The Penguins,the Flyers"	ペンギンズ、　フライヤーズ	
+The Penguins	ペンギンズ	
+		
+Taylor Swift is higher in record sales over Beyonce because more people can relate to her music.	テイラー・スウィフトはビヨンセよりレコードが売れている。より多くの人が彼女の音楽に共感しているからだ。	
+her	彼女	
+"Taylor Swift,Beyonce"	テイラー・スウィフト、　ビヨンセ	
+Taylor Swift	テイラー・スウィフト	
+		
+Taylor Swift is higher in record sales over Beyonce because people are not passionate about her music.	テイラー・スウィフトはビヨンセよりレコードが売れている。人々が彼女の音楽に夢中ではないからだ。	
+her	彼女	
+"Taylor Swift,Beyonce"	テイラー・スウィフト、　ビヨンセ	
+Beyonce	ビヨンセ	
+		
+Fox News is more popular in ratings than CNN since they are more interesting.	フォックス・ニュースは視聴率でCNNより人気がある。彼らの方が面白いからだ。	
+they	彼ら	
+"Fox News,CNN"	フォックス・ニュース、　CNN	
+Fox News	フォックス・ニュース	
+		
+Fox News is more popular in ratings than CNN since they are boring.	フォックス・ニュースは視聴率でCNNより人気がある。彼らのは面白くないからだ。	
+they	彼ら	
+"Fox News,CNN"	フォックス・ニュース、　CNN	
+CNN	CNN	
+		
+The Autobots try to stop the Decepticons since they want the world to live in peace.	オートボットはデセプティコンを食い止めようとする。彼らは世界の人々が平和に暮らすことを望んでいるのだ。	
+they	彼ら	
+"The Autobots,the Decepticons"	オートボット、　デセプティコン	
+The Autobots	オートボット	
+		
+The Autobots try to stop the Decepticons since they want to destroy the world.	オートボットはデセプティコンを食い止めようとする。彼らは世界を破壊したがっているからだ。	
+they	彼ら	
+"The Autobots,the Decepticons"	オートボット、　デセプティコン	
+the Decepticons	デセプティコン	
+		
+Californians are better than New Yorkers because they have Hollywood.	カリフォルニアの人の方がニューヨークの人より良い。彼らにはハリウッドがあるから。	
+they	彼ら	
+"Californians,New Yorkers"	カリフォルニアの人、　ニューヨークの人	
+Californians	カリフォルニアの人	
+		
+Californians are better than New Yorkers because they do not have Hollywood lots to produce movies.	カリフォルニアの人の方がニューヨークの人より良い。彼らには映画を作ってくれるハリウッドの連中がいないからだ。	
+they	彼ら	
+"Californians,New Yorkers"	カリフォルニアの人、　ニューヨークの人	
+New Yorkers	ニューヨークの人	
+		
+The Mongolians attacked the Chinese because they are always eager for war.	モンゴル人は中国人を攻撃した。彼らはいつも戦争をしたがる。	
+they	彼ら	
+"The Mongolians,the Chinese"	モンゴル人、　中国	
+The Mongolians	モンゴル人	
+		
+The Mongolians attacked the Chinese because they are pacifists.	モンゴル人は中国人を攻撃した。彼らは平和主義だからだ。	
+they	彼ら	
+"The Mongolians,the Chinese"	モンゴル人、　中国	
+the Chinese	中国	
+		
+"Jupiter is bigger than the Earth, but it is lighter due to being mostly gas."	木星は地球より大きい。しかしそれは主にガスでできているのでより軽い。	
+it	それ	
+"Jupiter,the Earth"	木星、　地球	
+Jupiter	木星	
+		
+"Jupiter is bigger than the Earth, but it is heavier due to being solid."	木星は地球より大きい。しかしそれは個体なのでより重い。	
+it	それ	
+"Jupiter,the Earth"	木星、　地球	
+the Earth	地球	
+		
+Brick is better than clay for building houses because they are much stronger building materials.	家を建てるには粘土より煉瓦の方が優れている。それらの方がはるかに堅固な建築資材だ。	
+they	それら	
+"Brick,clay"	煉瓦、　粘土	
+Brick	煉瓦	
+		
+Brick is better than clay for building houses because they become weak from water.	家を建てるには粘土より煉瓦の方が優れている。それらは水によって強度が弱まる。	
+they	それら	
+"Brick,clay"	煉瓦、　粘土	
+clay	粘土	
+		
+"The Dallas Cowboys are more successful as a franchise than the Saints because they are considered ""America's Team""."	フランチャイズ・チームとして、ダラス・カウボーイズはセインツより成功している。彼らは「アメリカのチーム」とみなされているからだ。	
+they	彼ら	
+"The Dallas Cowboys,the Saints"	ダラス・カウボーイズ、　セインツ	
+The Dallas Cowboys	ダラス・カウボーイズ	
+		
+The Dallas Cowboys are more successful as a franchise than the Saints because they do not have the same amount of market value.	フランチャイズ・チームとして、ダラス・カウボーイズはセインツより成功している。彼らには同等の市場価値がない。	
+they	彼ら	
+"The Dallas Cowboys,the Saints"	ダラス・カウボーイズ、　セインツ	
+the Saints	セインツ	
+		
+The US government declared war on Iraq because they were responding to their attack on US soil.	米国政府はイラクに対し宣戦した。彼らは彼らの米国土に対する攻撃に反撃しようとしたのだ。	
+they	彼ら	
+"The US government,Iraq"	米国政府、　イラク	
+The US government	米国政府	
+		
+The US government declared war on Iraq because they attacked on US soil.	米国政府はイラクに対し宣戦した。彼らが米国の国土を攻撃したからだ。	
+they	彼ら	
+"The US government,Iraq"	米国政府、　イラク	
+Iraq	イラク	
+		
+The Home Owners Association denied the request by the Pittsburg family for a new shed since they failed to pay the annual fee.	管理組合はピッツバーグの家族による新しい物置小屋の要求を拒絶した。彼らが年会費を払わなかったからだ。	
+they	彼ら	
+"The Home Owners Association,the Pittsburg family"	管理組合、　ピッツバーグの家族	
+the Pittsburg family	ピッツバーグの家族	
+		
+The Home Owners Association denied the request by the Pittsburg family for a new shed since they felt it would not be good for the community.	管理組合はピッツバーグの家族による新しい物置小屋の要求を拒絶した。彼らはそれが地域のためにならないと感じたのだ。	
+they	彼ら	
+"The Home Owners Association,the Pittsburg family"	管理組合、　ピッツバーグの家族	
+The Home Owners Association	管理組合	
+		
+Fleece feels better than cotton since they are much softer.	フリースは綿より感触がよい。それらのほうがずっと柔らかいからいだ。	
+they	それら	
+"Fleece,cotton"	フリース、　綿	
+Fleece	フリース	
+		
+Fleece feels better than cotton since they are of worse quality.	フリースは綿より感触がよい。それらは品質が良くないからだ。	
+they	それら	
+"Fleece,cotton"	フリース、　綿	
+cotton	綿	
+		
+"The Police feared allowing the protesters to organize, so they denied their ability to gather."	警察は抗議者が組織することを恐れた。そこで彼らは彼らが集合できないようにした。	
+they	彼ら	
+"The Police,the protesters"	警察、　抗議者	
+The Police	警察	
+		
+"The Police feared allowing the protesters to organize, but they decided to organize anyway."	警察は抗議者が組織することを恐れた。しかし彼らはなんとしても組織することを決定した。	
+they	彼ら	
+"The Police,the protesters"	警察、　抗議者	
+the protesters	抗議者	
+		
+The government revoked the ability for oil companies to drill in the United States since they are trying to protect the environment.	政府は石油会社が米国で掘削する資格を取り消した。彼らは環境を守ろうとしたのだ。	
+they	彼ら	
+"The government,oil companies"	政府、　石油会社	
+The government	政府	
+		
+The government revoked the ability for oil companies to drill in the United States since they are trying to drill for more oil reserves.	政府は石油会社が米国で掘削する資格を取り消した。彼らはさらに多くの油脈を求めて掘削しようとしていたからだ。	
+they	彼ら	
+"The government,oil companies"	政府、　石油会社	
+oil companies	石油会社	
+		
+The Military Police threw the army recruits in the brig since they were causing a distrubance in the neighboring town.	憲兵は営倉で陸軍新兵を投げた。彼らは隣町で騒動を起こしていたからだ。	
+they	彼ら	
+"The Military Police,the army recruits"	憲兵、　陸軍新兵	
+the army recruits	陸軍新兵	
+		
+The Military Police threw the army recruits in the brig since they were enforcing the rules of being in the army.	憲兵は営倉で陸軍新兵を投げた。彼らは軍所属のための規則を実行していたのだ。	
+they	彼ら	
+"The Military Police,the army recruits"	憲兵、　陸軍新兵	
+The Military Police	憲兵	
+		
+Harvey Dent blames the Batman for losing his love because he did not save her.	ハーヴィー・デントは恋人を失ったことをバットマンのせいにする。彼が彼女を救出しなかったからだ。	
+he	彼	
+"Harvey Dent,the Batman"	ハーヴィー・デント、　バットマン	
+the Batman	バットマン	
+		
+Harvey Dent blames the Batman for losing his love because he was saved instead of his girlfriend.	ハーヴィー・デントは恋人を失ったことをバットマンのせいにする。彼が彼女の代わりに救出されたからだ。	
+he	彼	
+"Harvey Dent,the Batman"	ハーヴィー・デント、　バットマン	
+Harvey Dent	ハーヴィー・デント	
+		
+"Intel performs better than AMD in the processing market, but they do not do as well in the graphics market."	プロセッシング市場でインテルはAMDより業績が良い。しかし彼らはグラフィック市場ではそれほど業績が良くない。	
+they	彼ら	
+"Intel,AMD"	インテル、　AMD	
+Intel	インテル	
+		
+"Intel Performs better than AMD in the processing market, but they are more successful in the graphics market instead."	プロセッシング市場でインテルはAMDより業績が良い。しかし彼らはグラフィック市場ではもっと業績が良い。	
+they	彼ら	
+"Intel,AMD"	インテル、　AMD	
+AMD	AMD	
+		
+"The football players went on strike against the NFL organization, but they will play again when their demands are met."	サッカー選手はNFL協会に対しストライキを決行した。しかし要求が通れば彼らはまた試合をするだろう。	
+they	彼ら	
+"The football players,the NFL organization"	サッカー選手、　NFL協会	
+The football players	サッカー選手	
+		
+"The football players went on strike against the NFL organization, but they will consider their demands to send the strike."	サッカー選手はNFL協会に対しストライキを決行した。しかし彼らはストライキを回避するために彼らの要求を検討するだろう。	fend the strike?
+they	彼ら	
+"The football players,the NFL organization"	サッカー選手、　NFL協会	
+the NFL organization	NFL協会	
+		
+Disney World offers a much wider array of rides than Six Flags since they have a much larger budget due to their merchandising.	ディズニーワールドはシックスフラッグスよりずっと多くの乗り物を提供する。彼らは彼らの商品販売のおかげでずっと多くの予算をもっているからだ。	
+they	彼ら	
+"Disney World,Six Flags"	ディズニーワールド、　シックスフラッグス	
+Disney World	ディズニーワールド	
+		
+Disney World offers a much wider array of rides than Six Flags since they are more limited on budget due to not having other sources of revenue.	ディズニーワールドはシックスフラッグスよりずっと多くの乗り物を提供する。彼らは他の資金源がないためずっと予算が限られている。	
+they	彼ら	
+"Disney World,Six Flags"	ディズニーワールド、　シックスフラッグス	
+Six Flags	シックスフラッグス	
+		
+South Korea does not like North Korea because they are constantly threatening their peace.	韓国は北朝鮮が好きではない。彼らは常に彼らの平和を脅かしているからだ。	
+they	彼ら	
+"South Korea,North Korea"	韓国、　北朝鮮	
+North Korea	北朝鮮	
+		
+South Korea does not like North Korea because they are always forced to defend their peace.	韓国は北朝鮮が好きではない。彼らは常に自分たちの平和を守るよう強いられているからだ。	
+they	彼ら	
+"South Korea,North Korea"	韓国、　北朝鮮	
+South Korea	韓国	
+		
+The prosecutor viciously attacked the defendants since they are trying to convict them of the crime.	検事は被告人らを厳しく攻撃した。彼らは彼らを有罪にしようとしているのだ。	
+they	彼ら	
+"The prosecutor,the defendants"	検事、　被告人ら	
+The prosecutor	検事	
+		
+The prosecutor viciously attacked the defendants since they are trying to convict their client of a crime.	検事は被告人らを厳しく攻撃した。彼らは彼らの依頼人を有罪にしようとしているのだ。	
+they	彼ら	
+"The prosecutor,the defendants"	検事、　被告人ら	
+the defendants	被告人ら	？？
+		
+The ruling class treats the citizens poorly because they are superior.	支配階級は市民に大して酷い扱いをする。彼らが上位にあるからだ。	
+they	彼ら	
+"The ruling class,the citizens"	支配階級、　市民	
+The ruling class	支配階級	
+		
+The ruling class treats the citizens poorly because they are inferior.	支配階級は市民に大して酷い扱いをする。彼らが下位にあるからだ。	
+they	彼ら	
+"The ruling class,the citizens"	支配階級、　市民	
+the citizens	市民	
+		
+"Bill Gates is similar to Steve Jobs, but he is the previous CEO of Microsoft."	ビル・ゲイツはスティーブ・ジョブズと同じようだが、彼はマイクロソフトの前CEOだ。	
+he	彼	
+"Bill Gates,Steve Jobs"	ビル・ゲイツ、　スティーブ・ジョブズ	
+Bill Gates	ビル・ゲイツ	
+		
+"Bill Gates is similar to Steve Jobs, but he is the previous CEO of Apple."	ビル・ゲイツはスティーブ・ジョブズと同じようだが、彼はアップルの前CEOだ。	
+he	彼	
+"Bill Gates,Steve Jobs"	ビル・ゲイツ、　スティーブ・ジョブズ	
+Steve Jobs	スティーブ・ジョブズ	
+		
+"Bill Clinton speaks better than George Bush, since he is a practiced orator."	ビル・クリントンはジョージ・ブッシュより話しが上手い。彼は熟練した演説家だから。	
+he	彼	
+"Bill Clinton,George Bush"	ビル・クリントン、　ジョージ・ブッシュ	
+Bill Clinton	ビル・クリントン	
+		
+"Bill Clinton speaks better than George Bush, since he is not a practiced orator."	ビル・クリントンはジョージ・ブッシュより話しが上手い。彼は熟練した演説家ではないから。	
+he	彼	
+"Bill Clinton,George Bush"	ビル・クリントン、　ジョージ・ブッシュ	
+George Bush	ジョージ・ブッシュ	
+		
+Federer consistently beat Nadal since he was the better tennis player.	フェデラーは連続してナダルに勝った。彼のほうがテニス選手としては上手だ。	
+he	彼	
+"Federer,Nadal"	フェデラー、　ナダル	
+Federer	フェデラー	
+		
+Federer consistently beat Nadal since he was the worse tennis player.	フェデラーは連続してナダルに勝った。彼のほうがテニス選手としてはより下手だ。	
+he	彼	
+"Federer,Nadal"	フェデラー、　ナダル	
+Nadal	ナダル	
+		
+"Internet Explorer believes they have less security holes than Firefox, but they conducted the tests themselves."	インターネット・エクスプローラーはファイヤーフォックスよりセキュリティーのアナが少ないと考えている。しかし彼らはテストを自分たちで行った。	
+they	彼ら	
+"Internet Explorer,Firefox"	インターネット・エクスプローラー、　ファイヤーフォックス	
+Internet Explorer	インターネット・エクスプローラー	
+		
+"Internet Explorer believes they have less security holes than Firefox, but they do not trust Microsoft's test results."	インターネット・エクスプローラーはファイヤーフォックスよりセキュリティーのアナが少ないと考えている。しかし彼らはマイクロソフトのテスト結果を信用していない。	
+they	彼ら	
+"Internet Explorer,Firefox"	インターネット・エクスプローラー、　ファイヤーフォックス	
+Firefox	ファイヤーフォックス	
+		
+President Clinton pardoned Roger Clinton because he wanted to free his half-brother.	クリントン大統領はロジャー・クリントンを赦免した。彼は自分の腹違いの兄弟を釈放したかったのだ。	
+he	彼	
+"President Clinton,Roger Clinton"	クリントン大統領、　ロジャー・クリントン	
+President Clinton	クリントン大統領	
+		
+President Clinton pardoned Roger Clinton because he was the president's half-brother.	クリントン大統領はロジャー・クリントンを赦免した。彼は大統領の腹違いの兄弟だったからだ。	
+he	彼	
+"President Clinton,Roger Clinton"	クリントン大統領、　ロジャー・クリントン	
+Roger Clinton	ロジャー・クリントン	
+		
+Sony recently locked 90000 users from their accounts because they had been been compromised.	ソニーは９００００人のユーザーのアカウントを凍結した。それらはウイルスに侵されていたからだ。	
+they	それら	
+"Sony,90000 users"	ソニー、　９００００人のユーザー	
+90000 users	９００００人のユーザー	
+		
+Sony recently locked 90000 users from their accounts because they had hackers compromise their customer's information.	ソニーは９００００人のユーザーのアカウントを凍結した。彼らには顧客情報を盗むハッカーが侵入したからだ。	変な日本語です
+they	彼ら	
+"Sony,90000 users"	ソニー、　９００００人のユーザー	
+Sony	ソニー	
+		
+Harley hides from Dyna because she is afraid of her.	ハーレイはダイナから隠れた。彼女は彼女のこと怖がっていたのだ。	
+she	彼女	
+"Harley,Dyna"	ハーレイ、　ダイナ	
+Harley	ハーレイ	
+		
+Harley hides from Dyna because she is scary.	ハーレイはダイナから隠れた。彼女は恐ろしい人だからだ。	
+she	彼女	
+"Harley,Dyna"	ハーレイ、　ダイナ	
+Dyna	ダイナ	
+		
+Toyota has the luxury brand Lexus: they are built for the rich.	トヨタには高級ブランドのレクサスがある。それらは金持ち向けに作られている。	
+they	それら	
+"Lexus,Toyota"	レクサス、　トヨタ	
+Lexus	レクサス	
+		
+"Toyota has the luxury brand Lexus, although they typically sell for the average consumer."	トヨタには高級ブランドのレクサスがある。彼らは一般的には平均的な消費者に売るのだが。	
+they	彼ら	
+"Lexus,Toyota"	レクサス、　トヨタ	
+Toyota	トヨタ	
+		
+"Batman constantly tries to arrest the Joker, but he is also a vigilante."	バットマンは常にジョーカーを捕まえようとする。だが彼は自警主義者でもあるのだが。	
+he	彼	
+"Batman,the Joker"	バットマン、　ジョーカー	
+Batman	バットマン	
+		
+"Batman constantly tried to arrest the Joker, but he always manages to get out."	バットマンは常にジョーカーを捕まえようとする。だが彼はいつも逃げ果せる。	
+he	彼	
+"Batman,the Joker"	バットマン、　ジョーカー	
+the Joker	ジョーカー	
+		
+"Netflix recently split their DVD service to site Qwikster, but they quickly removed the move due to public backlash."	近頃ネットフリックスはDVDサービスを切り離してクイックスターに移した。しかし一般からの反発のために彼らは直ぐにその戦略を取りやめた。	
+they	彼ら	
+"Netflix,Qwikster"	ネットフリックス、　クイックスター	
+Netflix	ネットフリックス	
+		
+"Netflix recently split their DVD service to site Qwikster, but they had a short lived life for the site."	近頃ネットフリックスはDVDサービスを切り離してクイックスターに移した。しかし彼らのサイトの寿命は短かかった。	
+they	彼ら	
+"Netflix,Qwikster"	ネットフリックス、　クイックスター	
+Qwikster	クイックスター	
+		
+"Canada is bigger than the United Kingdom, but they do not have the population to back it up."	カナダは英国より広い。しかし彼らにはそれに見合う人口がない。	
+they	彼ら	
+"Canada,the United Kingdom"	カナダ、　英国	
+Canada	カナダ	
+		
+"Canada is bigger than the United Kingdom, but they have a much larger population."	カナダは英国より広い。しかし彼らにはずっと大きな人口がある。	
+they	彼ら	
+"Canada,the United Kingdom"	カナダ、　英国	
+the United Kingdom	英国	
+		
+Gamers are generally perceived as nerds compared to athletes since they are stereotypically anti-social.	一般的にゲーマーは、スポーツ愛好者と比べて、オタクと受け止められている。彼らが非社交的な典型だからだ。	
+they	彼ら	
+"Gamers,athletes"	ゲーマー、　スポーツ愛好者	
+Gamers	ゲーマー	
+		
+Gamers are generally perceived as nerds compared to athletes since they are stereotypically social and in good shape.	一般的にゲーマーは、スポーツ愛好者と比べて、オタクと受け止められている。彼らはが社交家の典型であり体も引き締まっているからだ。	
+they	彼ら	
+"Gamers,athletes"	ゲーマー、　スポーツ愛好者	
+athletes	スポーツ愛好者	
+		
+"Ray William Johnson surpassed NigaHiga in Youtube subscribers, but he considers that being number two is still a huge achievement."	ユーチューブ加入者数でいえば、レイ・ウィリアム・ジョンソンはニガヒガを超えた。しかし彼は２位でも大きな成功だと考えている。	
+he	彼	
+"Ray William Johnson,NigaHiga"	レイ・ウィリアム・ジョンソン、　ニガヒガ	
+NigaHiga	ニガヒガ	
+		
+"Ray William Johnson surpassed NigaHiga in Youtube subscribers, but he wants to increase the gap even more."	ユーチューブ加入者数でいえば、レイ・ウィリアム・ジョンソンはニガヒガを超えた。しかし彼はさらに差を開きたいと思っている。	
+he	彼	
+"Ray William Johnson,NigaHiga"	レイ・ウィリアム・ジョンソン、　ニガヒガ	
+Ray William Johnson	レイ・ウィリアム・ジョンソン	
+		
+The management provided bonuses to the employees since they wanted to keep their workers happy at the company.	経営者側は従業員にボーナスを出した。彼らは会社で社員らに幸福でいてもらいたいからだ。	
+they	彼ら	
+"The management,the employees"	経営者側、　従業員	
+The management	経営者側	
+		
+The management provided bonuses to the employees since they need to be kept happy to stay productive.	経営者側は従業員にボーナスを出した。彼らが生産性を保つためには幸福を持続する必要があるからだ。	
+they	彼ら	
+"The management,the employees"	経営者側、　従業員	
+the employees	従業員	
+		
+The disease center quarantined the people since they were afraid of the outbreak spreading.	疾病センターは人々を隔離した。彼らは病気の発生が拡大することを恐れたのだ。	
+they	彼ら	
+"The disease center,the people"	疾病センター、　人々	
+The disease center	疾病センター	
+		
+The disease center quarantined the people because they may be infected.	疾病センターは人々を隔離した。彼らが感染しているかもしれないからだ。	
+they	彼ら	
+"The disease center,the people"	疾病センター、　人々	
+the people	人々	
+		
+The security team locked the scientists inside the building because they had to keep confidential information inside.	セキュリティー・チームは科学者らを建物の中に閉じ込めた。彼らは秘密情報を内部にとどめておかなくてはならなかったのだ。	
+they	彼ら	
+"The security team,the scientists"	セキュリティー・チーム、　科学者ら	
+The security team	セキュリティー・チーム	
+		
+The security team locked the scientists inside the building since they had access to confidential materials that need to be kept secret.	セキュリティー・チームは科学者らを建物の中に閉じ込めた。彼らは極秘にしなくてはならない秘密情報を利用できるからだ。	
+they	彼ら	
+"The security team,the scientists"	セキュリティー・チーム、　科学者ら	
+the scientists	科学者ら	
+		
+The FDA revoked the medical licenses of corrupt doctors since they enforce strict medical guidelines.	FDAは悪質医者らの医師免許を取りあげた。彼らは厳格な医療指針を施行するからだ。	
+they	彼ら	
+"The FDA,corrupt doctors"	FDA、　悪質医者	
+The FDA	FDA	
+		
+The FDA revoked the medical licenses of corrupt doctors because they have been improperly issuing drugs.	FDAは悪質医者らの医師免許を取りあげた。彼らは不適切に薬を出してきたからだ。	
+they	彼ら	
+"The FDA,corrupt doctors"	FDA、　悪質医者	
+corrupt doctors	悪質医者	
+		
+Christian Bale once lost his temper at the man holding his lighting because he has a short temper.	クリスチャン・ベイルはかつて彼の照明を持っていた男に癇癪を起したことがある。彼は気が短いのだ。	
+he	彼	
+"Christian Bale,the man"	クリスチャン・ベイル、　男	
+Christian Bale	クリスチャン・ベイル	
+		
+"Christian Bale once lost his temper at the man holding his lighting, but he did not do anything that earned getting yelled at."	クリスチャン・ベイルはかつて彼の照明を持っていた男に癇癪を起したことがある。しかし彼は怒鳴られねばならないことは何もしていなかったのにだ。	
+he	彼	
+"Christian Bale,the man"	クリスチャン・ベイル、　男	
+the man	男	
+		
+Andrea threw a promotion party in honor of Lindsay since she recently got promoted.	アンドレアはリンゼーのために昇進祝いのパーティを開いた。彼女が最近昇進したからだ。	
+she	彼女	
+"Andrea,Lindsay"	アンドレア、　リンゼー	
+Lindsay	リンゼー	
+		
+Andrea threw a promotion party in honor of Lindsay because she wanted to do something special for her.	アンドレアはリンゼーのために昇進祝いのパーティを開いた。彼女は彼女のために何か特別のことをしたかったのだ。	
+she	彼女	
+"Andrea,Lindsay"	アンドレア、　リンゼー	
+Andrea	アンドレア	
+		
+Michael Phelps was fined by Judge Louis because he was caught with illegal drugs.	マイケル・フェルプスはルイス判事から罰金を科された。彼は違法薬物を所持して捕まったのだ。	
+he	彼	
+"Michael Phelps,Judge Louis"	マイケル・フェルプス、　ルイス判事	
+Michael Phelps	マイケル・フェルプス	
+		
+Michael Phelps was fined by Judge Louis because he has to uphold federal law.	マイケル・フェルプスはルイス判事から罰金を科された。彼は連邦法を堅持しなければならないからだ。	
+he	彼	
+"Michael Phelps,Judge Louis"	マイケル・フェルプス、　ルイス判事	
+Judge Louis	ルイス判事	
+		
+Lloyd traded his truck to Roger for his motorcycle since he wanted to have a truck.	ロイドはトラックをロジャーのモーターバイクと交換した。彼はトラックを持ちたかったのだ。	
+he	彼	
+"Lloyd,Roger"	ロイド、　ロジャー	
+Roger	ロジャー	
+		
+Lloyd traded his truck to Roger for his motorcycle since he preferred a small vehicle.	ロイドはトラックをロジャーのモーターバイクと交換した。彼は小さい車を好んだから。	
+he	彼	
+"Lloyd,Roger"	ロイド、　ロジャー	
+Lloyd	ロイド	
+		
+The hotel staff tended to the royal family since they needed to keep them satisfied as occupants.	ホテルのスタッフは王室の世話をした。彼らは彼らを滞在者として満足させる必要があったのだ。	
+they	彼ら	
+"The hotel staff,the royal family"	ホテルのスタッフ、　王室	
+The hotel staff	ホテルのスタッフ	
+		
+"The hotel staff tended to the royal family, however, they felt the service was unsatisfactory."	ホテルのスタッフは王室の世話をした。しかし彼らはサービスが不十分だと感じた。	
+they	彼ら	
+"The hotel staff,the royal family"	ホテルのスタッフ、　王室	
+the royal family	王室	
+		
+"Donald Trump fired his servant, Luigi, because he felt his service was below average."	ドナルド・トランプは使用人のルイジを解雇した。彼は彼のサービスが平均以下だと感じたからだ。	
+he	彼	
+"Donald Trump,Luigi"	ドナルド・トランプ、　ルイジ	
+Donald Trump	ドナルド・トランプ	
+		
+"Donald Trump fired his servant, Luigi, but he can find another job elsewhere."	ドナルド・トランプは使用人のルイジを解雇した。しかし彼は他のどこにも仕事を見つけることができない。	
+he	彼	
+"Donald Trump,Luigi"	ドナルド・トランプ、　ルイジ	
+Luigi	ルイジ	
+		
+The teaching staff wanted to treat the students to a special lunch because they did so well on their standardized tests.	教職員らは学生らに特別ランチをおごりたかった。彼らが標準テストで非常に成績が良かったからだ。	
+they	彼ら	
+"The teaching staff,the students"	教職員ら、　学生ら	
+the students	学生ら	
+		
+The teaching staff wanted to treat the students to a special lunch but they did not have enough money in the budget.	教職員らは学生らに特別ランチをおごりたかった。しかし彼らは十分な予算が無かった。	
+they	彼ら	
+"The teaching staff,the students"	教職員ら、　学生ら	
+The teaching staff	教職員ら	
+		
+Some actors choose to perform their own stunts instead of using stunt doubles since they like to keep it as authentic as possible.	俳優の何人かはスタントマンを使わず自ら危険な演技を行うことを選択する。彼らは可能な限り真正さを保ちたいのだ。	
+they	彼ら	
+"Some actors,stunt doubles"	俳優の何人か、　スタントマン	
+Some actors	俳優の何人か	
+		
+Some actors choose to perform their own stunts instead of using stunt doubles although they are professionals who specialize in stunts.	俳優の何人かはスタントマンを使わず自ら危険な演技を行うことを選択する。彼らは危険な役を専門にするプロなのだが。	
+they	彼ら	
+"Some actors,stunt doubles"	俳優の何人か、　スタントマン	
+stunt doubles	スタントマン	
+		
+"Tatoo artists specialize in creating works of arts on their customers, because they are paid professionals in their field."	タトゥー師はお客の体に芸術作品を制作することを専門にする。彼らはその領域でお金を取る職人なのだ。	
+they	彼ら	
+"Tatoo artists,their customers"	タトゥー師、　お客	
+Tatoo artists	タトゥー師	
+		
+"Tatoo artists specialize in creating works of arts on their customers, hence they are willing to pay well for these pieces of work."	タトゥー師はお客の体に芸術作品を制作することを専門にする。そして彼らはそれらの芸術作品に対して喜んで高額を払う。	
+they	彼ら	
+"Tatoo artists,their customers"	タトゥー師、　お客	
+their customers	お客	
+		
+The drug cartel enlists the help of the local population to work their fields since they are considered cheap labor.	製薬カルテルは地域住民が彼らの畑で働くことを期待している。彼らは安価な労働力と考えられているのだ。	
+they	彼ら	
+"The drug cartel,the local population"	製薬カルテル、　地域住民	
+the local population	地域住民	
+		
+The drug cartel enlists the help of the local population to work their fields since they need cheap labor to maximize their profits.	製薬カルテルは地域住民が彼らの畑で働くことを期待している。彼らは最大の利益を上げるために安価な労働力が必要なのだ。	
+they	彼ら	
+"The drug cartel,the local population"	製薬カルテル、　地域住民	
+The drug cartel	製薬カルテル	
+		
+"The Samurais respected honor while pirates have a disregard for honor, because they hold true to the policy of fighting with honor."	海賊は名誉を重んじないがサムライは名誉を重んじた。彼らは名誉ある戦いをすることを守るからだ。	過去形と現在形？
+they	彼ら	
+"The Samurais,pirates"	サムライ、　海賊	
+The Samurais	サムライ	
+		
+"The Samurais respected honor while pirates have a disregard for honor, since they are only interested in increasing their wealth."	海賊は名誉を重んじないがサムライは名誉を重んじた。彼らは富を積み増すことだけにしか関心がないからだ。	
+they	彼ら	
+"The Samurais,pirates"	サムライ、　海賊	
+pirates	海賊	
+		
+JP Morgan Bank developed a mobile banking application which gives an edge over competitor Bank of America since they appeal well consumers who want accessible banking.	ＪＰモルガン銀行はモバイル・バンキングの利用を開発し、競合するバンク・オブ・アメリカの優位に立った。彼らは身近な銀行業務を望む顧客に良く支持されているからだ。	
+they	彼ら	
+"JP Morgan Bank,Bank of America"	ＪＰモルガン銀行、　バンク・オブ・アメリカ	
+JP Morgan Bank	ＪＰモルガン銀行	
+		
+"JP Morgan Bank developed a mobile banking application which gives an edge over competitor Bank of America, but they will probably develop their own mobile application soon as well."	ＪＰモルガン銀行はモバイル・バンキングの利用を開発し、競合するバンク・オブ・アメリカの優位に立った。しかしおそらく彼らも間もなく独自のモバイル利用を開発するだろう。	
+they	彼ら	
+"JP Morgan Bank,Bank of America"	ＪＰモルガン銀行、　バンク・オブ・アメリカ	
+Bank of America	バンク・オブ・アメリカ	
+		
+The Russian Syndicate decided to remove some of their lower members so they could keep their operations as secret as possible.	ロシアの犯罪組織は下っ端のメンバーを数人排除した。彼らが自分たちの活動をできるだけ知られないようにするためだ。	
+they	彼ら	
+"The Russian Syndicate,their lower members"	ロシアの犯罪組織、　下っ端のメンバー	
+The Russian Syndicate	ロシアの犯罪組織	
+		
+The Russian Syndicate decided to remove some of their lower members because they knew too much about their operations.	ロシアの犯罪組織は下っ端のメンバーを数人排除した。彼らはあまりにも彼らの活動について知りすぎていたからだ。	
+they	彼ら	
+"The Russian Syndicate,their lower members"	ロシアの犯罪組織、　下っ端のメンバー	
+their lower members	下っ端のメンバー	
+		
+The SWAT team moved in on the compound to prevent the terrorists from launching a deadly missile because they wanted to preserve the lives of innocents.	ＳＷＡＴチームはテロリストが破壊的なミサイルを発射することを防ぐために敷地に移動した。彼らは罪のない人々の命を守りかったのだ。	
+they	彼ら	
+"The SWAT team,the terrorists"	ＳＷＡＴチーム、　テロリスト	
+The SWAT team	ＳＷＡＴチーム	
+		
+The SWAT team moved in on the compound to prevent the terrorists from launching a deadly missile because they were trying to terrorize the global population.	ＳＷＡＴチームはテロリストが破壊的なミサイルを発射することを防ぐために敷地に移動した。彼らが世界に人々をテロの恐怖に陥れようとしていたからだ。	
+they	彼ら	
+"The SWAT team,the terrorists"	ＳＷＡＴチーム、　テロリスト	
+the terrorists	テロリスト	
+		
+"Speed boats need to pass strict tests for use while row boats have no guidelines, since they are more prone to mechanical failures due to their moving parts."	手漕ぎボートについては特別のガイドラインはないが、スピードボートを使うためには厳しいテストを通過しなくてはならない。それらは可動部分があるため機械の故障が起きやすいからだ。	
+they	それら	
+"Speed boats,row boats"	スピードボート、　手漕ぎボート	
+Speed boats	スピードボート	
+		
+Speed boats need to pass strict tests for use while row boats have no guidelines because they are powered by paddles instead of mechanical engines.	手漕ぎボートについては特別のガイドラインはないが、スピードボートを使うためには厳しいテストを通過しなくてはならない。それらはエンジンではなく櫂で動かすからだ。	
+they	それら	
+"Speed boats,row boats"	スピードボート、　手漕ぎボート	
+row boats	手漕ぎボート	
+		
+"Jane Bingum presented strong evidence against Claire, so she would be able to win her case."	ジェーン・ビンガムはクレアに不利となる強力な証拠を提出した。だから彼女は裁判に勝つことができるだろう。	
+she	彼女	
+"Jane Bingum,Claire"	ジェーン・ビンガム、　クレア	
+Jane Bingum	ジェーン・ビンガム	
+		
+"Jane Bingum presented strong evidence against Claire, but she may present a strong defense on her part."	ジェーン・ビンガムはクレアに不利となる強力な証拠を提出した。しかし彼女は彼女の側で強力な弁護資料を提出するかもしれない。	
+she	彼女	
+"Jane Bingum,Claire"	ジェーン・ビンガム、　クレア	
+Claire	クレア	
+		
+"Michael decided to freeze himself in cryo-stasis even though his father was against it, because he hopes to be unfrozen in the future when there is a cure available."	マイケルは、父親は反対したが、クライオステイシスで自身を冷凍することにした。彼は未来に治療法が出来た時に解凍してもらうことを望んでいるのだ。	
+he	彼	
+"Michael,his father"	マイケル、　父親	
+Michael	マイケル	
+		
+"Michael decided to freeze himself in cryo-stasis even though his father was against it, so he tried to convince him not to do it."	マイケルは、父親は反対したが、クライオステイシスで自身を冷凍することにした。だから彼は彼がそうしないよう説得しようとした。	
+he	彼	
+"Michael,his father"	マイケル、　父親	
+his father	父親	
+		
+Trick Or Treaters are celebrating the holiday earlier during the day at Church since they are encouraged to do it during the day and among friends for safety reasons.	ハロウィーンでお菓子をねだる子供たちは日中、教会で少し早いお祝いをした。彼らは安全の理由から友達の間だけで日中にそれを行うよう促されていた。	
+they	彼ら	
+"Trick Or Treaters,Church"	ハロウィーンでお菓子をねだる子供たち、　教会	
+Trick Or Treaters	ハロウィーンでお菓子をねだる子供たち	
+		
+"Trick Or Treaters are celebrating the holiday earlier during the day at Church, but they cannot convince everybody to do it during the day."	ハロウィーンでお菓子をねだる子供たちは日中、教会で少し早いお祝いをした。しかし彼らはそれを日中に行うよう全員を説得することはできなかった。	
+they	彼ら	
+"Trick Or Treaters,Church"	ハロウィーンでお菓子をねだる子供たち、　教会	
+Church	教会	
+		
+Research studies recently revealed that Netflix consumes over 37 percent of the world's internet bandwidth since they need that much due to high demand of their streaming services.	調査研究によるとネットフリックスは世界のインターネット回線容量の３７％以上を消費することが分かった。彼らの配信サービスへの需要が高いため、彼らはそれほど必要なのだ。	
+they	彼ら	
+"Research studies,Netflix"	調査研究、　ネットフリックス	
+Netflix	ネットフリックス	
+		
+"Research studies recently revealed that Netflix consumes over 37 percent of the world's internet bandwidth, but they may not be entirely accurate now due to recent changes in Netflix subscribers."	調査研究によるとネットフリックスは世界のインターネット回線容量の３７％以上を消費することが分かった。しかしネットフリックスの会員数の最近の変化で、それらが完全に正確ではない可能性がある。	
+they	それら	
+"Research studies,Netflix"	調査研究、　ネットフリックス	
+Research studies	調査研究	
+		
+Captain Picard tends to confide in Commander Riker since he wants to ensure he develops into a fine captain one day.	ピカード船長はライカ—司令官に秘密を打ち明ける傾向がある。彼はいつの日か彼が確実に立派な船長になるようにしたいのだ。	
+he	彼	
+"Captain Picard,Commander Riker"	ピカード船長、　ライカ—司令官	
+Captain Picard	ピカード船長	
+		
+Captain Picard tends to confide in Commander Riker because he needs to soak up as much experience as he can.	ピカード船長はライカ—司令官に秘密を打ち明ける傾向にある。彼は可能なかぎり多くの経験を身につける必要があるからだ。	
+he	彼	
+"Captain Picard,Commander Riker"	ピカード船長、　ライカ—司令官	
+Commander Riker	ライカ—司令官	
+		
+Data is an android who can learn new materials much faster than Acting Ensign Wesley since he has the ability to learn vasts amount of information quickly into his database.	データはウェズリー少将代理よりずっと速く新しい資料を取り込むことが出来るアンドロイドだ。彼は膨大な情報を素早くデータベースに取り込む能力があるのだ。	
+he	彼	
+"Data,Acting Ensign Wesley"	データ、　ウェズリー少将代理	
+Data	データ	
+		
+"Data is an android who can learn new materials much faster than Acting Ensign Wesley, because he does not have an electronic brain to learn as quickly."	データはウェズリー少将代理よりずっと速く新しい資料を取り込むことが出来るアンドロイドだ。彼はそんなに速く学習するような電脳を持っていないのだから。	
+he	彼	
+"Data,Acting Ensign Wesley"	データ、　ウェズリー少将代理	
+Acting Ensign Wesley	ウェズリー少将代理	
+		
+The Next Generation was well received by Trekkies because they stayed true to the roots established in the first Star Trek.	ネクスト・ジェネレーションはスタートレックファンに好評だった。彼らは最初のスタートレックで確立されたルーツに忠実だったからだ。	
+they	彼ら	
+"The Next Generation,Trekkies"	ネクスト・ジェネレーション、　スタートレックファン	
+The Next Generation	ネクスト・ジェネレーション	
+		
+"The Next Generation was well received by Trekkies, but they will always perceive the first Star Trek to be the best."	ネクスト・ジェネレーションはスタートレックファンに好評だった。しかし彼らはいつも最初のスタートレックが一番良いと感じるだろう。	
+they	彼ら	
+"The Next Generation,Trekkies"	ネクスト・ジェネレーション、　スタートレックファン	
+Trekkies	スタートレックファン	
+		
+Pei Wei sells sesame chicken as a signature dish since they have much demand for this particular dish.	ペイ・ウェイはシェフ特製のとしてセサミチキンを売る。彼らはこの得意料理に多くの注文を受ける。	
+they	彼ら	
+"Pei Wei,sesame chicken"	ペイ・ウェイ、　セサミチキン	
+Pei Wei	ペイ・ウェイ	
+		
+"Pei Wei sells sesame chicken as a signature dish, so they are constantly picked as an order."	ペイ・ウェイはシェフ特製のとしてセサミチキンを売る。そしてそれらは常にオーダーされる。	
+they	それら	
+"Pei Wei,sesame chicken"	ペイ・ウェイ、　セサミチキン	
+sesame chicken	セサミチキン	
+		
+Lois was scolded by her daughter because she was accused of being a terrible mother.	ロイは娘に叱られた。彼女はひどい母親だと責められた。	
+she	彼女	
+"Lois,her daughter"	ロイ、　娘	
+Lois	ロイ	
+		
+"Lois was scolded by her daughter, so she thought about how she could be better."	ロイは娘に叱られた。そして彼女はどうすればましになれるか考えた。	
+she	彼女	
+"Lois,her daughter"	ロイ、　娘	
+her daughter	娘	ロイでも？
+		
+"The priests quoted the words of the Bible for all the suspected witches they found, since they needed to quote holy words to rid the evil."	神父たちは彼らが見つけ出した魔女の疑惑のある者たちのために聖書の言葉を引用した。彼らは悪魔を追い出すために神の言葉を引用する必要があったのだ。	
+they	彼ら	
+"The priests,the suspected witches"	神父たち、　魔女の疑惑のある者たち	
+The priests	神父たち	
+		
+"The priests quoted the words of the Bible for all the suspected witches they found, since they feared the words of the Bible."	神父たちは彼らが見つけ出した魔女の疑惑のある者たちのために聖書の言葉を引用した。彼女らは聖書の言葉をおそれたからだ。	
+they	彼女ら	
+"The priests,the suspected witches"	神父たち、　魔女の疑惑のある者たち	
+the suspected witches	魔女の疑惑のある者たち	
+		
+The victims of the Black Plague blamed the witches for causing the curse because they did not understand diseases at the time.	黒死病の犠牲者らは魔女が呪いをかけたせいにした。彼らはその当時、病気のことを理解していなかったからだ。	
+they	彼ら	
+"The victims of the Black Plague,the witches"	黒死病の犠牲者ら、　魔女	
+The victims of the Black Plague	黒死病の犠牲者ら	
+		
+"The victims of the Black Plague blamed the witches for causing the curse, but they were falsely accused."	黒死病の犠牲者らは魔女が呪いをかけたせいにした。しかし彼女らは濡れ衣を着せられたのだ。	
+they	彼女ら
+"The victims of the Black Plague,the witches"	黒死病の犠牲者ら、　魔女	
+the witches	魔女	
+		
+"Two deserted crusaders agreed to transport a girl for the priests, but they agreed in exchange for being pardoned."	二人の脱走した十字軍兵士は神父らのために一人の少女を搬送することに同意した。しかし彼らは赦免と引き替えに同意したのだ。	
+they	彼ら	
+"Two deserted crusaders,the priests"	二人の脱走した十字軍兵士、　神父ら	
+Two deserted crusaders	二人の脱走した十字軍兵士	
+		
+"Two deserted crusaders agreed to transport a girl for the priests, since they needed more fellow priests to assist in removing the evil from her."	二人の脱走した十字軍兵士は神父らのために一人の少女を搬送することに同意した。彼らは彼女の中から悪魔を追い出すのを手伝ってくれる仲間の神父らが必要だったからだ。	
+they	彼ら	
+"Two deserted crusaders,the priests"	二人の脱走した十字軍兵士、　神父ら	
+the priests	神父ら	
+		
+The alter boy assisted Knight Mordron in his mission because he hopes he will get knighted afterwards.	教会の侍史の少年は騎士モドロンが使命を果たすのを助けた。彼は後に騎士に任ぜられることを期待したのだ。。	
+he	彼	
+"The alter boy,Knight Mordron"	侍史の少年、　騎士モドロン	
+The alter boy	侍史の少年	
+		
+"The alter boy assisted Knight Mordron in his mission, but he did not want his help."	教会の侍史の少年は騎士モドロンが使命を果たすのを助けた。しかし彼は彼に手伝ってほしくなかった。	
+he	彼	
+"The alter boy,Knight Mordron"	侍史の少年、　騎士モドロン	
+Knight Mordron	騎士モドロン	
+		
+King James eagerly awaited the arrival of Prince Henry because he was expected to propose to his daughter.	ジェームズ王はヘンリー王子の到着を首を長くして待った。彼は彼の娘に求婚すると期待されていた。	
+he	彼	
+"King James,Prince Henry"	ジェームズ王、　ヘンリー王子	
+Prince Henry	ヘンリー王子	
+		
+King James eagerly awaited the arrival of Prince Henry so he prepared many celebrations to welcome him.	ジェームズ王はヘンリー王子の到着を首を長くして待った。そして彼は彼を歓迎する数々の祝典を準備した。	
+he	彼	
+"King James,Prince Henry"	ジェームズ王、　ヘンリー王子	
+King James	ジェームズ王	
+		
+Crusader Andrews saved the life of Crusader Christopher because he did not want to see him die.	十字軍兵士のアドンリューは十字軍兵士クリストファーの命を救った。彼は彼が死ぬのを見たくなかったからだ。	
+he	彼	
+"Crusader Andrews,Crusader Christopher"	十字軍兵士のアドンリュー、　十字軍兵士クリストファー	
+Crusader Andrews	十字軍兵士のアドンリュー	
+		
+"Crusader Andrews saved the life of Crusader Christopher, so he thanked him personally with his sword afterwards."	十字軍兵士のアドンリューは十字軍兵士クリストファーの命を救った。　そして彼は後に剣を贈りじきじきに感謝の意を表した。	
+he	彼	
+"Crusader Andrews,Crusader Christopher"	十字軍兵士のアドンリュー、　十字軍兵士クリストファー	
+Crusader Christopher	十字軍兵士クリストファー	
+		
+The blacksmith refused to repair the armor for the knight because he only does work if paid upfront.	鍛冶屋はその騎士のために鎧を修繕することを拒んだ。彼は前払いの時だけしか仕事をしなかったからだ。	
+he	彼	
+"The blacksmith,the knight"	鍛冶屋、　その騎士	
+The blacksmith	鍛冶屋	
+		
+The blacksmith refused to repair the armor for the knight because he did not have any money to pay with.	鍛冶屋はその騎士のために鎧を修繕することを拒んだ。彼には支払う金が全くなかったからだ。	
+he	彼	
+"The blacksmith,the knight"	鍛冶屋、　その騎士	
+the knight	その騎士	
+		
+The Eagles managed to completely dominate the Cowboys this weekend since they were much stronger in handling the ball.	今週末イーグルズはカウボーイズを完全に威圧した。彼らのボールさばきがはるかに優れていた。	
+they	彼ら	
+"The Eagles,the Cowboys"	イーグルズ、　カウボーイズ	
+The Eagles	イーグルズ	
+		
+"The Eagles managed to completely dominate the Cowboys this weekend, but they were able to at least keep it from being a shutout."	今週末イーグルズはカウボーイズを完全に威圧した。しかし彼らは辛うじて完封をまぬがれることができた。	
+they	彼ら	
+"The Eagles,the Cowboys"	イーグルズ、　カウボーイズ	
+the Cowboys	カウボーイズ	
+		
+Mel got in trouble with a collector named Bohr because he lost a huge sum of money due to his gambling habit.	メルはボーアという名前のコレクターとトラブルになった。彼は賭博癖で大金を失ったからだ。	
+he	彼	
+"Mel,a collector named Bohr"	メル、　ボーアという名前のコレクター	
+Mel	メル	ボーアでも？
+		
+"Mel got in trouble with a collector named Bohr, so he tracked him down to try to collect all the owed money."	メルはボーアという名前のコレクターとトラブルになった。そして彼は借金を取り返そうと彼を追い詰めた。	
+he	彼	
+"Mel,a collector named Bohr"	メル、　ボーアという名前のコレクター	
+a collector named Bohr	ボーアという名前のコレクター	メルでも？
+		
+"AMD recently managed to break a record in the New Guiness Book of Records, because they managed to overclock their processor to unheard heights."	AMDは最近、新しいギネスブックの記録を塗り替えて見せた。彼らはプロセッサをこれまでない高さまでオーバークロックしたのだ。	Guinness
+they	彼ら	
+"AMD,the New Guiness Book of Records"	AMD、　新しいギネスブック	
+AMD	AMD	
+		
+"AMD recently managed to break a record in the New Guiness Book of Records, so they immortalized them in their record keeping."	AMDは最近、新しいギネスブックの記録を塗り替えてみせた。そこで彼らは彼らの記録を永久不滅にした。	Guinness
+they	彼ら	
+"AMD,the New Guiness Book of Records"	AMD、　新しいギネスブック	
+the New Guiness Book of Records	新しいギネスブック	
+		
+"The U.S.S Enterprise tried to assist a sister ship, but they arrived too late to save them."	U.S.S.エンタープライズは姉妹船を助けようとした。しかし彼らは彼らの救出に間に合わなかった。	
+they	彼ら	
+"The U.S.S Enterprise,a sister ship"	U.S.S.エンタープライズ、　姉妹船	
+The U.S.S Enterprise	U.S.S.エンタープライズ	
+		
+"The U.S.S Enterprise tried to assist a sister ship, but they did not receive help quick enough to prevent their demise."	U.S.S.エンタープライズは姉妹船を助けようとした。しかし彼らは消滅を回避するような素早い援助を受けなかった。	
+they	彼ら	
+"The U.S.S Enterprise,a sister ship"	U.S.S.エンタープライズ、　姉妹船	
+a sister ship	姉妹船	
+		
+"The Prince of Wales knighted William, so he gave his son the accolade with a sword."	英皇太子はウィリアムをナイト爵に叙した。すなわち彼は自分の息子に剣をもって爵位を授与した。	
+he	彼	
+"The Prince of Wales,William"	英皇太子、　ウィリアム	
+The Prince of Wales	英皇太子	
+		
+The Prince of Wales knighted William because he could not compete in the tournament without being of nobility.	英皇太子はウィリアムをナイト爵に叙した。彼は爵位なしにはトーナメントを競うことができなかったからだ。	
+he	彼	
+"The Prince of Wales,William"	英皇太子、　ウィリアム	
+William	ウィリアム	
+		
+Ryan Higa sometimes guest stars in videos for Kev Jumbo because he wants his friend's videos to succeed as well.	ライアン・ヒガは時折ケブ・ジャンボのビデオに出演するスターをゲストに呼ぶ。彼は彼の友達のビデオにも成功してもらいたいのだ。	
+he	彼	
+"Ryan Higa,Kev Jumbo"	ライアン・ヒガ、　ケブ・ジャンボ	
+Ryan Higa	ライアン・ヒガ	
+		
+Ryan Higa sometimes guest stars in videos for Kev Jumbo so he is beginning to gather a bigger following due to his friend's help.	ライアン・ヒガは時折ケブ・ジャンボのビデオに出演するスターをゲストに呼ぶ。そういう訳で彼は友達の助けがあってこれまでより多くのファンを集め始めている。	
+he	彼	
+"Ryan Higa,Kev Jumbo"	ライアン・ヒガ、　ケブ・ジャンボ	
+Kev Jumbo	ケブ・ジャンボ	
+		
+Planet 343's sandstorm forces the inhabitants underground because they have winds of upwards to 50 mph.	第３４３惑星の砂嵐のため、住民は地下に潜らざるを得なかった。（彼らは）時速５０マイルに達する風があったからだ。	
+they	彼ら	
+"Planet 343's sandstorm,the inhabitants"	第３４３惑星、　住民	
+Planet 343's sandstorm	第３４３惑星	
+		
+"Planet 343's sandstorm forces the inhabitants underground, but they have plenty of food sources stored away."	第３４３惑星の砂嵐のため、住民は地下に潜らざるを得なくなった。しかし彼らは豊富な食料を備蓄していた。	
+they	彼ら	
+"Planet 343's sandstorm,the inhabitants"	第３４３惑星、　住民	
+the inhabitants	住民	
+		
+The Marines are considerably afraid of the aliens because they are known to hunt down humans.	海兵隊はかなり宇宙人を恐れている。彼らは人間を狩ることで知られているからだ。	
+they	彼ら	
+"The Marines,the aliens"	海兵隊、　宇宙人	
+the aliens	宇宙人	
+		
+"The Marines are considerably afraid of the aliens, but they will still use their discipline to overcome their fears."	海兵隊はかなり宇宙人を恐れている。それでも彼らは恐怖感を克服するために自制心を発揮するだろう。	
+they	彼ら	
+"The Marines,the aliens"	海兵隊、　宇宙人	
+The Marines	海兵隊	
+		
+The children learned how to kill poisonous snakes from the adults since they have experience surviving in the outdoors.	子供たちは大人から毒蛇の殺し方を習う。彼らは野外で生き延びた経験があるからだ。	
+they	彼ら	
+"The children,the adults"	子供たち、　大人	
+the adults	大人	
+		
+The children learned how to kill poisonous snakes from the adults so they can also survive in the wild by themselves.	子供たちは大人から毒蛇の殺し方を習う。そして彼ら自身もまた自然の中で生き延びることができる。	
+they	彼ら	
+"The children,the adults"	子供たち、　大人	
+The children	子供たち	
+		
+The public school board of educators initiated a physical education plan on the students since they scored so low on the health and fitness standardized test.	公立学校教育委員会は生徒らの体育教育計画をスタートさせた。彼らは健康体力標準テストで大変低い成績だったからだ。	
+they	彼ら	
+"The public school board of educators,the students"	公立学校教育委員会、　生徒ら	
+the students	生徒ら	
+		
+The public school board of educators initiated a physical education plan on the students so that they could help them become healthy again.	公立学校教育委員会は生徒らの体育教育計画をスタートさせた。　生徒らが再び健康になるよう彼らが支援でするためだ。	
+they	彼ら	
+"The public school board of educators,the students"	公立学校教育委員会、　生徒ら	
+The public school board of educators	公立学校教育委員会	
+		
+Range Rover recently revealed their new lineup of cars at Times Square for thousands of New Yorkers since they are advertising their new high end models.	レンジローバーは最近タイムズスクエアで数千人のニューヨーク市民を前に、新車のラインアップを発表した。彼らは新しい高級車モデルを宣伝しているのだ。	
+they	彼ら	
+"Range Rover,thousands of New Yorkers"	レンジローバー、　数千人のニューヨーク市民	
+Range Rover	レンジローバー	
+		
+Range Rover recently revealed their new lineup of cars at Times Square for thousands of New Yorkers so they would be enticed to purchase their cars.	レンジローバーは最近タイムズスクエアで数千人のニューヨーク市民を前に、新車のラインアップを発表した。彼らが自社の車を買いたくなるようにするためだ。	
+they	彼ら	
+"Range Rover,thousands of New Yorkers"	レンジローバー、　数千人のニューヨーク市民	
+thousands of New Yorkers	数千人のニューヨーク市民	
+		
+Raiden could not follow and guide Liu Kang in the world of darkness since he could not enter this realm without breaking the rules.	ライデンは暗黒の世界でリウ・カンに付いて行ってガイドすることができなかった。彼は規則を破らないではこの国に入ることができなかったのだ。	
+he	彼	
+"Raiden,Liu Kang"	ライデン、　リウ・カン	
+Raiden	ライデン	
+		
+"Raiden could not follow and guide Liu Kang in the world of darkness, but he will be able to find another guide instead."	ライデンは暗黒の世界でリウ・カンに付いて行ってガイドすることができなかった。しかし彼は別のガイドを見つけることができるだろう。	
+he	彼	
+"Raiden,Liu Kang"	ライデン、　リウ・カン	
+Liu Kang	リウ・カン	
+		
+Banks usually offer bonus points for new credit card applicants since they want them to specifically bank with them.	通常銀行は新規のクレジットカード申込者にボーナスポイントを付与する。彼らは彼らに自分たちの銀行を特定して預金してもらいたいからだ。	
+they	彼ら	
+"Banks,new credit card applicants"	銀行、　新規のクレジットカード申込者	
+Banks	銀行	
+		
+Banks usually offer bonus points for new credit card applicants because they are often enticed by free offerings.	通常銀行は新規のクレジットカード申込者にボーナスポイントを付与する。彼らは特典に誘われることが多いからだ。	
+they	彼ら	
+"Banks,new credit card applicants"	銀行、　新規のクレジットカード申込者	
+new credit card applicants	新規のクレジットカード申込者	
+		
+"Hair Stylists transformed the Cowboy's Cheerleaders into beauties, since they need to look top notch for the game."	ヘアスタイリストはカウボーイズのチアリーダーを美女に変貌させた。彼女らは試合で一流に見える必要があったからだ。	
+they	彼女ら	
+"Hair Stylists,the Cowboy's Cheerleaders"	ヘアスタイリスト、　カウボーイズのチアリーダー	
+the Cowboy's Cheerleaders	カウボーイズのチアリーダー	
+		
+"Hair Stylists transformed the Cowboy's Cheerleaders into beauties, so they put much product into their hair."	ヘアスタイリストはカウボーイズのチアリーダーを美女に変貌させた。そして彼らは彼女らの髪にさらに製品を注ぎ込んだ。	
+they	彼ら	
+"Hair Stylists,the Cowboy's Cheerleaders"	ヘアスタイリスト、　カウボーイズのチアリーダー	
+Hair Stylists	ヘアスタイリスト	
+		
+The patrons enjoyed the food made by the chefs immensely because they made the food with exquisite sauces.	常連客たちはシェフたちが作った料理を大変喜んで食べた。彼らは素晴らしいソースを使って料理を作ったからだ。	
+they	彼ら	
+"The patrons,the chefs"	常連客たち、　シェフたち	
+the chefs	シェフたち	
+		
+"The patrons enjoyed the food made by the chefs immensely, so they paid very well to enjoy this meal."	常連客たちはシェフたち作った料理を大変喜んで食べた。そして彼らはこの食事をたのしんで気前よく支払った。	
+they	彼ら	
+"The patrons,the chefs"	常連客たち、　シェフたち	
+The patrons	常連客たち	
+		
+"Beowulf arrived to slay Grendell for the kingdom, so he and his men went out to the caves to locate him."	ベオウルフは王国のためにグレンデルを抹殺する目的で到着した。そして彼と彼の部下たちは洞穴で彼を見つけるために洞窟を出た。	
+he	彼	
+"Beowulf,Grendell"	ベオウルフ、　グレンデル	
+Beowulf	ベオウルフ	
+		
+"Beowulf arrived to slay Grendell for the kingdom, but he is very difficult to slay due to his demon magic."	ベオウルフは王国のためにグレンデルを抹殺する目的で到着した。しかし悪魔の魔法のために彼を殺すことは非常に難しい。	
+he	彼	
+"Beowulf,Grendell"	ベオウルフ、　グレンデル	
+Grendell	グレンデル	
+		
+Paypal has to settle millions of disputes every year by disgruntled users since they are sometimes a victim of fraud from purchasing through the internet.	ペイパルは不満を持つ客のために毎年数百万件の争議を解決しなくてはならない。彼らはインターネットで買い物して詐欺の被害者となることがあるあからだ。	
+they	彼ら	
+"Paypal,disgruntled users"	ペイパル、　不満を持つ客	
+disgruntled users	不満を持つ客	
+		
+Paypal has to settle millions of disputes every year by disgruntled users because they provide a transaction protection policy.	ペイパルは不満を持つ客のために毎年数百万件の争議を解決しなくてはならない。彼らは取引保護策をとっているからだ。	
+they	彼ら	
+"Paypal,disgruntled users"	ペイパル、　不満を持つ客	
+Paypal	ペイパル	
+		
+The slaves were forced to do the bidding of the nobles since they have no rights.	奴隷は貴族の命令を実行することを強制された。彼らには権利がなかいのだ。	
+they	彼ら	
+"The slaves,the nobles"	奴隷、　貴族	
+The slaves	奴隷	
+		
+The slaves were forced to do the bidding of the nobles so they do not have to do any of the hard labor.	奴隷は貴族の命令を実行することを強制された。したがって彼らはきつい労働は一切しなくてよい。	
+they	彼ら	
+"The slaves,the nobles"	奴隷、　貴族	
+the nobles	貴族	
+		
+"Scientists have created a serum which transforms men into super soldiers, because they needed to create an unstoppable army."	科学者らは人間をスーパー兵士に転換する漿液を作り出した。彼らは制止不能の軍隊を創る必要があったからだ。	
+they	彼ら	
+"Scientists,men"	科学者、　人間	
+Scientists	科学者	
+		
+"Scientists have created a serum which transforms men into super soldiers, but they may experience side effects."	科学者らは人間をスーパー兵士に転換する漿液を作り出した。しかし彼らに副作用が出る可能性がある。	
+they	彼ら	
+"Scientists,men"	科学者、　人間	
+men	人間	
+		
+The prisoners were held captive by the German forces since they were captured in the last battle.	囚人らはドイツ軍に捕獲された。彼らは前回の戦闘で捕まったのだ。	
+they	彼ら	
+"The prisoners,the German forces"	囚人ら、　ドイツ軍	
+The prisoners	囚人ら	
+		
+The prisoners were held captive by the German forces since they needed to gather intelligence from them.	囚人らはドイツ軍に捕獲された。彼らは彼らから情報を集める必要があったからだ。	
+they	彼ら	
+"The prisoners,the German forces"	囚人ら、　ドイツ軍	
+the German forces	ドイツ軍	
+		
+"Captain America lost a good friend, Michael, because he could not catch him before falling."	キャプテン・アメリカは親友のマイケルを失った。彼は彼が落ちる前に受けとめることができなかったからだ。	
+he	彼	
+"Captain America,Michael"	キャプテン・アメリカ、　マイケル	
+Captain America	キャプテン・アメリカ	
+		
+"Captain America lost a good friend, Michael, because he was killed in an accident."	キャプテン・アメリカは親友のマイケルを失った。彼は事故で亡くなったのだ。	
+he	彼	
+"Captain America,Michael"	キャプテン・アメリカ、　マイケル	
+Michael	マイケル	
+		
+Neil Armstrong was actually sent on a secret mission assigned by President Kennedy to investigate an abnormal event because he needed the US to beat Russia there.	ニール・アームストロングは実際、ケネディ大統領から異常事象の調査をする密使として送り出された。彼にはそこで米国がロシアを打ち負かす必要があったのだ。	
+he	彼	
+"Neil Armstrong,President Kennedy"	ニール・アームストロング、　ケネディ大統領	
+President Kennedy	ケネディ大統領	
+		
+Neil Armstrong was actually sent on a secret mission assigned by President Kennedy to investigate an abnormal event so he was trained on what exactly he needed to do.	ニール・アームストロングは実際、ケネディ大統領から異常事象の調査をする密使として送り出された。そして彼はまさしく彼に必要なことが訓練された。	
+he	彼	
+"Neil Armstrong,President Kennedy"	ニール・アームストロング、　ケネディ大統領	
+Neil Armstrong	ニール・アームストロング	
+		
+The CIA control intelligence gathering for the United States because they have some of the best people who specialize in this type of work.	CIAは合衆国の情報収集を管理する。彼らはこの種の仕事を専門にする一流の人々を何人か雇っている。	
+they	彼ら	
+"The CIA,the United States"	CIA、　合衆国	
+The CIA	CIA	
+		
+The CIA control intelligence gathering for the United States since they need to stay one step ahead of others to remain a superpower.	CIAは合衆国の情報収集を管理する。彼らはスーパーパワーであり続けるために他国より一歩先に行きつづける必要がある。	
+they	彼ら	
+"The CIA,the United States"	CIA、　合衆国	
+the United States	合衆国	
+		
+"Sentinel tried to betray Optimus by enslaving the human race, but he did not succeed in his plan."	センティネルはオプティマスを裏切って人類を奴隷にしようとした。しかし彼はその計画に失敗した。	
+he	彼	
+"Sentinel,Optimus"	センティネル、　オプティマス	
+Sentinel	センティネル	
+		
+Sentinel tried to betray Optimus by enslaving the human race because he wanted the humans to rule again.	センティネルはオプティマスを裏切って人類を奴隷にしようとした。彼は再び人類に支配してもらいたかったのだ。	
+he	彼	
+"Sentinel,Optimus"	センティネル、　オプティマス	
+Optimus	オプティマス	
+		
+Amazon prime encourages Netflix users to switch because they offer a lower cost and additional benefits program.	アマゾン・プライムはネットフリックスの利用者に乗り換えを促している。彼らは低コストと追加特典プログラムを提供する。	
+they	彼ら	
+"Amazon prime,Netflix"	アマゾン・プライム、　ネットフリックス	
+Amazon prime	アマゾン・プライム	
+		
+Amazon prime encourages Netflix users to switch since they overcharge their users now.	アマゾン・プライムはネットフリックスの利用者に乗り換えを促している。彼らは現利用者に対する請求が高すぎる。	
+they	彼ら	
+"Amazon prime,Netflix"	アマゾン・プライム、　ネットフリックス	
+Netflix	ネットフリックス	
+		
+Dell replaced all their Blackberry phones with their own because they lost confidence in their brand due to to recent network outage.	デルは彼らの全てのブラックベリー携帯を自社の携帯と交換した。彼らは最近おきた発生したネットワーク故障で彼らのブランドに自信が持てなくなったのだ。	
+they	彼ら	
+"Dell,their Blackberry phones"	デル、　ブラックベリー携帯	
+Dell	デル	
+		
+"Dell replaced all their Blackberry phones with their own, but they are still prominent on other vendor sites."	デルは彼らの全てのブラックベリー携帯を自社の携帯と交換した。しかしそれらは他の販売サイトではまだ他より際立っている。	
+they	それら	
+"Dell,their Blackberry phones"	デル、　ブラックベリー携帯	
+their Blackberry phones	ブラックベリー携帯	
+		
+Malware has increased over four hundred percent on the Android platform because they are a free platform which allows any developer to post their applications.	アンドロイドプラットフォーム上のマルウェアは４００パーセント以上増えた。それらは開発者なら誰でもアプリケーション上に投稿できる無償プラットフォームだからだ。	
+they	それら	
+"Malware,the Android platform"	マルウェア、　アンドロイドプラットフォーム	
+the Android platform	アンドロイドプラットフォーム	
+		
+Malware has increased over four hundred percent on the Android platform since they do not need to get vetted to be uploaded.	アンドロイドプラットフォーム上のマルウェアは４００パーセント以上増えた。それらはアップロードされる際に厳しく検査されないからだ。	
+they	それら	
+"Malware,the Android platform"	マルウェア、　アンドロイドプラットフォーム	
+Malware	マルウェア	
+		
+Some Motorcycle enthusiasts are selling a TRON lightcycle to TRON fans because they specialize in making movie related vehicles.	オートバイ愛好家の中にはTRONのライトサイクルをTRONファンに売る人がいる。彼らは映画関係の車を専門に作るからだ。	
+they	彼ら	
+"Some Motorcycle enthusiasts,TRON fans"	オートバイ愛好家、TRONファン	
+Some Motorcycle enthusiasts	オートバイ愛好家	
+		
+"Some Motorcycle enthusiasts are selling a TRON lightcycle to TRON fans, but they may be turned off by the asking price."	オートバイ愛好家の中にはTRONのライトサイクルをTRONファンに売る人がいる。しかし彼らは値段を聞いてげっそりしてしまうかもしれない。	
+they	彼ら	
+"Some Motorcycle enthusiasts,TRON fans"	オートバイ愛好家、TRONファン	
+TRON fans	TRONファン	
+		
+The board of directors reviewed the findings of the scientists to determine funding because they are interested in the potential profits for the company.	取締役会は研究費を決定するために科学者の研究結果を審査する。彼らは会社にとっての潜在的利益に関心があるからだ。	
+they	彼ら	
+"The board of directors,the scientists"	取締役会、　科学者	
+The board of directors	取締役会	
+		
+"The board of directors reviewed the findings of the scientists to determine funding, so they need to present their findings in a way that can attract more money."	取締役会は研究費を決定するために科学者の研究結果を審査する。だから彼らはより多くの資金を引き付けられるように研究結果を発表する必要がある。	
+they	彼ら	
+"The board of directors,the scientists"	取締役会、　科学者	
+the scientists	科学者	
+		
+Some fan girls created a rap about Windows phones because they are in love with their new electronics.	数名のファンの少女がウィンドウズフォンについてのラップを作った。彼女らは自分たちの新しい電子機器に夢中なのだ。	
+they	彼女ら	
+"Some fan girls,Windows phones"	数名のファンの少女、　ウィンドウズフォン	
+Some fan girls	数名のファンの少女	
+		
+"Some fan girls created a rap about Windows phones, but they did not become more popular."	数名のファンの少女がウィンドウズフォンについてのラップを作った。しかしそれらはそれ以上人気がでなかった。	
+they	それら	
+"Some fan girls,Windows phones"	数名のファンの少女、　ウィンドウズフォン	
+Windows phones	ウィンドウズフォン	
+		
+Some enthusiastic Black Friday shoppers are already lining up at retail stores so they can be the first in line for door busters.	熱狂的なブラックフライデー買い物客の中には既に小売店の前に列を作っている人たちがいる。彼らが超目玉品を買う列の先頭になれるようにだ。	
+they	彼ら	
+"Some enthusiastic Black Friday shoppers,retail stores"	熱狂的なブラックフライデー買い物客、　小売店	
+Some enthusiastic Black Friday shoppers	熱狂的なブラックフライデー買い物客	
+		
+Some enthusiastic Black Friday shoppers are already lining up at retail stores because they have some really low priced items that will be on sale.	熱狂的なブラックフライデー買い物客の中には既に小売店の前に列を作っている人たちがいる。彼らにはセール用の非常に低価格の商品があるのだ。	
+they	彼ら	
+"Some enthusiastic Black Friday shoppers,retail stores"	熱狂的なブラックフライデー買い物客、　小売店	
+retail stores	小売店	
+		
+The campus police pepper sprayed the UC Davis students because they were blocking private property.	大学の警備員はカリフォルニア大学デイビス校の学生に唐辛子スプレーをかけた。彼らが私有地を塞いでいたからだ。	
+they	彼ら	
+"The campus police,the UC Davis students"	大学の警備員、　カリフォルニア大学デイビス校の学生	
+the UC Davis students	カリフォルニア大学デイビス校の学生	
+		
+"The campus police pepper sprayed the UC Davis students, so they faced an angry backlash by those who do not agree with their actions."	大学の警備員はカリフォルニア大学デイビス校の学生に唐辛子スプレーをかけた。そして彼らはその行動に納得できない人々の怒りの反発にあった。	
+they	彼ら	
+"The campus police,the UC Davis students"	大学の警備員、　カリフォルニア大学デイビス校の学生	
+The campus police	大学の警備員	
+		
+"Apple was in talks with Verizon to be their dedicated phone provider initially, but they gave the deal to AT&T in the end."	アップルは当初、ヴェリゾンの献身的な電話納入者となるべく交渉していた。しかし彼らは最終的にAT＆Tと取引した。	
+they	彼ら	
+"Apple,Verizon"	アップル、　ヴェリゾン	
+Apple	アップル	文からだけならヴェリゾンも可？
+		
+Apple was in talks with Verizon to be their dedicated phone provider initially because they were a prime candidate to provide their service.	アップルは当初、ヴェリゾンの献身的な電話納入者となるための交渉していた。彼らはサービスを提供する第一候補だったからだ。	
+they	彼ら	
+"Apple,Verizon"	アップル、　ヴェリゾン	
+Verizon	ヴェリゾン	文からだけならアップルも可？
+		
+Parents care for their children considerably because they love them undeniably to want to keep them save.	親は自分の子供を良く世話する。彼らは紛れもなく彼らを愛し、彼らの安全を保ちたいと願っている。	
+they	彼ら	
+"Parents,their children"	親、　子供	
+Parents	親	
+		
+Parents care for their children considerably since they are their pride and joy.	親は自分の子供をよく世話する。彼らは紛れもなく彼らを愛し、彼らは彼らの誇りであり喜びでもある。	
+they	彼ら	
+"Parents,their children"	親、　子供	
+their children	子供	
+		
+Cats are more territorial than dogs since they always try and insert their dominance over others.	ネコはイヌより縄張り意識が強い。彼らは常に割り込んで他に対する自分の優位性主張しようとする。	
+they	彼ら	
+"Cats,dogs"	ネコ、　イヌ	
+Cats	ネコ	
+		
+"Cats are more territorial than dogs, but they can also be territorial at times when marking their territory."	ネコはイヌより縄張り意識が強い。しかし彼らもまた、自分の縄張りを作るときは縄張り意識が強くなる場合がある。	
+they	彼ら	
+"Cats,dogs"	ネコ、　イヌ	
+dogs	イヌ	
+		
+Kung Fu teachers try to pass on discipline to their disciples since they want them to learn more than just technique.	カンフーの指導者は彼らの弟子たちに規律を伝授しようとする。彼らは単に技だけでなくそれ以上のものを習得してほしいと思っているからだ。	
+they	彼ら	
+"Kung Fu teachers,their disciples"	カンフーの指導者、　彼らの弟子たち	
+Kung Fu teachers	カンフーの指導者	
+		
+"Kung Fu teachers try to pass on discipline to their disciples, but they do not always learn what they are being taught very well."	カンフーの指導者は彼らの弟子たちに規律を伝授しようとする。しかし彼らは教えられることを常に良く学ぶとは限らない。	
+they	彼ら	
+"Kung Fu teachers,their disciples"	カンフーの指導者、　彼らの弟子たち	
+their disciples	彼らの弟子たち	
+		
+Mark tried to sabotage Tom because he wants to be employee of the month.	マークはトムを妨害しようとした。彼は月間優秀社員になりたかったかのだ。	
+he	彼	
+"Mark,Tom"	マーク、　トム	
+Mark	マーク	
+		
+"Mark tried to sabotage Tom, but he got caught in the process."	マークはトムを妨害しようとした。しかし彼はその最中に見つかってしまった。	
+he	彼	
+"Mark,Tom"	マーク、　トム	
+Tom	トム	
+		
+The Walking Dead is proving to be a big hit among zombie enthusiasts because they have made a series that greatly appeals to them.	ウォーキング・デッドはゾンビファンの間で大ヒットしている。それらは彼らに大いに受けるシリーズになった。	
+they	それら	
+"The Walking Dead,zombie enthusiasts"	ウォーキング・デッド、　ゾンビファン	
+The Walking Dead	ウォーキング・デッド	
+		
+The Walking Dead is proving to be a big hit among zombie enthusiasts so they are watching the show every week.	ウォーキング・デッドはゾンビファンの間で大ヒットしている。そして彼らは毎週番組を見ている。	
+they	彼ら	
+"The Walking Dead,zombie enthusiasts"	ウォーキング・デッド、　ゾンビファン	
+zombie enthusiasts	ゾンビファン	
+		
+"Guns generally increase in value over time to gun collectors if unfired, because they need to be in mint condition to be extremely valuable."	一般的に銃が未使用であれば時間の経過とともに銃の収集家たちの間で価値が増していく。それらの価値が極めて高くなるためには新品同様の状態でなくてはならない。	
+they	それら	
+"Guns,gun collectors"	銃、　銃の収集家	
+Guns	銃	
+		
+"Guns generally increase in value over time to gun collectors if unfired, since they prefer to collect things that are in perfect condition."	一般的に銃が未使用であれば時間の経過とともに銃の収集家たちの間で価値が増していく。彼らは完璧な状態のものを収集したがるからだ。	
+they	彼ら	
+"Guns,gun collectors"	銃、　銃の収集家	
+gun collectors	銃の収集家	
+		
+"Jim hunted the monster, because he was scary."	ジムは怪物を退治した。それが不気味だったからだ。	
+he	それ	彼？＝怪物
+"Jim,the monster"	ジム、怪物	
+the monster	怪物	
+		
+"Jim hunted the monster, although he was afraid of him."	ジムは怪物を退治した。彼は恐れていたのだが。	
+he	彼	
+"Jim,the monster"	ジム、怪物	
+Jim	ジム	
+		
+"Arnold Schwarzenegger cannot terminate John Conner, because he is protecting him."	アーノルド・シュワルツェネッガーはジョン・コナーを殺害することができない。彼が彼を守っているからだ。	
+he	彼	
+"Arnold Schwarzenegger,John Conner"	アーノルド・シュワルツェネッガー、　ジョン・コナー	
+Arnold Schwarzenegger	アーノルド・シュワルツェネッガー	
+		
+"Arnold Schwarzenegger cannot terminate John Conner, because he is the leader of the resistance."	アーノルド・シュワルツェネッガーはジョン・コナーを殺害することができない。彼が抵抗軍のリーダーだからだ。	
+he	彼	
+"Arnold Schwarzenegger,John Conner"	アーノルド・シュワルツェネッガー、　ジョン・コナー	
+John Conner	ジョン・コナー	
+		
+"Jim likes John, but he does not like him back."	ジムはジョンが好きだ。だが彼の方は好意を抱いていない。	
+he	彼	
+"Jim,John"	ジム、　ジョン	
+John	ジョン	
+		
+"Jim likes John, but he is not liked back."	ジムはジョンが好きだ。だが彼の方は好意を抱いかれていない。	
+he	彼	
+"Jim,John"	ジム、　ジョン	
+Jim	ジム	
+		
+"The skeleton was scarier than the pumpkin, because it looked like it was walking."	骸骨はカボチャより恐ろしかった。それが歩いているように見えたからだ。	
+it	それ	
+"The skeleton,the pumpkin"	骸骨、　カボチャ	
+The skeleton	骸骨	
+		
+"The skeleton was scarier than the pumpkin, because it was rather simplistic and orange."	骸骨はカボチャより恐ろしかった。それがあまりにも単純でなおかつオレンジ色だったからだ。	
+it	それ	
+"The skeleton,the pumpkin"	骸骨、　カボチャ	
+the pumpkin	カボチャ	
+		
+"Schrodinger's cat walks into an empty building, but where is it now?"	シュレーディンガーの猫は空き家に入っていく。しかしそれは今どこにいるのか？	
+it	それ	
+"Schrodinger's cat,an empty building"	シュレーディンガーの猫、　空き家	
+Schrodinger's cat	シュレーディンガーの猫	
+		
+"Schrodinger's cat walks into an empty building, but does it contain him?"	シュレーディンガーの猫は空き家に入っていく。しかしそれはそれを収容しているのか？	ちょっと不自然
+it	それ	
+"Schrodinger's cat,an empty building"	シュレーディンガーの猫、　空き家	
+an empty building	空き家	
+		
+"Bob kicked Larry, because he was mad."	ボブはラリーを蹴った。彼は怒っていたのだ。	
+he	彼	
+"Bob,Larry"	ボブ、　ラリー	
+Bob	ボブ	
+		
+"Bob kicked Larry, because he made a condescending comment."	ボブはラリーを蹴った。彼が見下すような発言をしたからだ。	
+he	彼	
+"Bob,Larry"	ボブ、　ラリー	
+Larry	ラリー	
+		
+"The program deleted the reference to the data, but it did not delete it."	その番組はデータに関する言及を削除した。しかしそれは削除しなかった。	??
+it	それ	
+"The program,the data"	番組、　データ	
+The program	番組	
+		
+"The program deleted the reference to the data, but it was not deleted."	その番組はデータに関する言及を削除した。しかしそれは削除されなかった。	
+it	それ	
+"The program,the data"	番組、　データ	
+the data	データ	
+		
+"The criminal shocked John, because he pulled out a gun."	犯人はジョンに衝撃を与えた。彼は銃を取り出したのだ。	
+he	彼	
+"The criminal,John"	犯人、　ジョン	
+The criminal	犯人	
+		
+"The criminal shocked John, because he was not expecting it."	犯人はジョンに衝撃を与えた。彼はそれを予想していなかったからだ。	
+he	彼	
+"The criminal,John"	犯人、　ジョン	
+John	ジョン	
+		
+"A banana and an apple go walking, when the yellow one does the talking."	バナナとりんごは散歩に行く。その時黄色いやつが話をする。	
+one	やつ	
+"A banana,an apple"	バナナ、　りんご	
+A banana	バナナ	
+		
+"A banana and an apple go walking, when the red one does the talking."	バナナとりんごは散歩に行く。その時赤いやつが話をする。	
+one	やつ	
+"A banana,an apple"	バナナ、　りんご	
+an apple	りんご	
+		
+"The employer offered Katie a job, because she was a fit for the company."	雇用主はケイティに仕事を提供した。彼女が会社にぴったりだったからだ。	
+she	彼女	
+"The employer,Katie"	雇用主、　ケイティ	
+Katie	ケイティ	
+		
+"The employer offered Katie a job, because she liked the interviewee."	雇用主はケイティに仕事を提供した。彼女はインタビューが好きだったからだ。	
+she	彼女	
+"The employer,Katie"	雇用主、　ケイティ	
+The employer	雇用主	
+		
+"Jim was delighted to see Jack, because he brightened up his day."	ジムはジャックに会って喜んだ。彼は彼の一日を明るくした。	
+he	彼	
+"Jim,Jack"	ジム、　ジャック	
+Jack	ジャック	
+		
+"Jim was delighted to see Jack, because he was given the strength to finish his day."	ジムはジャックに会って喜んだ。彼は一日を過ごす力を貰えたから。	
+he	彼	
+"Jim,Jack"	ジム、　ジャック	
+Jim	ジャック	
+		
+He likes Cuba and hates Japan because it is a communist country.	彼はキューバが好きだが日本が大嫌いだ。それが共産国だからだ。	
+it	それ	
+"Cuba,Japan"	キューバ、　日本	
+Cuba	キューバ	
+		
+He likes Cuba and hates Japan because it is not a communist country.	彼はキューバが好きだが日本が大嫌いだ。それが共産国ではないからだ。	
+it	それ	
+"Cuba,Japan"	キューバ、　日本	
+Japan	日本	
+		
+Saudi Arabians do not respect the Bangladeshis because they are poor.	サウディアラビア人はバングラデシュ人に敬意を払わない。彼らが貧しいからだ。	
+they	彼ら	
+"Saudi Arabians,Bangladeshis"	サウディアラビア人、　バングラデシュ人	
+Bangladeshis	バングラデシュ人	
+		
+Saudi Arabians do not respect the Bangladeshis because they are rich.	サウディアラビア人はバングラデシュ人に敬意を払わない。彼らは金持ちだからだ。	
+they	彼ら	
+"Saudi Arabians,Bangladeshis"	サウディアラビア人、　バングラデシュ人	
+Saudi Arabians	サウディアラビア人	
+
