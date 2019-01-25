@@ -6598,13 +6598,13 @@ it	そちら
 "English,Bengali"	英語、　ベンガル語				
 Bengali	ベンガル語				
 					
-There is currently more work on coreference resolution than on chunking because it is a problem that is nearly solved.	現時点ではチャンキングよりもカンファレンス・レゾリューションに関する研究の方が多い。それはすでに解決されかかっている問題だからだ。				
+There is currently more work on coreference resolution than on chunking because it is a problem that is nearly solved.	現時点ではチャンキングよりも共参照解析に関する研究の方が多い。それはすでに解決されかかっている問題だからだ。				
 it	それ				
-"coreference resolution,chunking"	カンファレンス・レゾリューション、　チャンキング				
+"coreference resolution,chunking"	共参照解析、　チャンキング				
 chunking	チャンキング				
 					
-There is currently more work on coreference resolution than on chunking because it is a problem that is still far from being solved.	現時点ではチャンキングよりもカンファレンス・レゾリューションに関する研究の方が多い。それはまだ解決からほど遠い問題だからだ。				
+There is currently more work on coreference resolution than on chunking because it is a problem that is still far from being solved.	現時点ではチャンキングよりも共参照解析に関する研究の方が多い。それはまだ解決からほど遠い問題だからだ。				
 it	それ				
-"coreference resolution,chunking"	カンファレンス・レゾリューション、　チャンキング				
-coreference resolution	カンファレンス・レゾリューション				
+"coreference resolution,chunking"	共参照解析、　チャンキング				
+coreference resolution	共参照解析				
 
